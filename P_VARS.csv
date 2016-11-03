@@ -1,0 +1,3728 @@
+Var_,VarCode,VarName
+550,Abi.b,Abies balsamea
+917,Abi.1/3,Abies (1/3 grains)
+6,Ace.ru,Acer rubrum
+555,Ace.sa,Acer saccharum
+29,Bet,Betula
+3618,Betae.co,Betulaceae (corroded)
+210,Pic,Picea
+915,Pic.1/3,Picea (1/3 grains)
+385,Pin,Pinus
+916,Pin.1/3,Pinus (1/3 grains)
+697,Pin.st,Pinus strobus
+2093,Pin.ba,Pinus banksiana
+761,Jc/To-t,Juniperus communis/Thuja occidentalis-type
+1460,Lar.l,Larix laricina
+763,Tsu.c,Tsuga canadensis
+251,Que,Quercus
+310,Ulm,Ulmus
+2588,Fag.g,Fagus grandifolia
+587,Car.c,Carya cordiformis
+588,Car.o,Carya ovata
+112,Fra.ni-t,Fraxinus nigra-type
+113,Fra.pe-t,Fraxinus pennsylvanica-type
+3726,Fra.cf.a,Fraxinus cf. F. americana
+144,Jug.c,Juglans cinerea
+1155,Pop.tr,Populus tremuloides
+1151,Pop.ba,Populus balsamifera
+271,Slx,Salix
+1361,,Alnus crispa-type
+13,Aln.i-t,Alnus incana-type
+603,Cor.co,Corylus cornuta
+8,Ace.sp,Acer spicatum
+5,Ace.pe,Acer pensylvanicum
+607,Die.l,Diervilla lonicera
+366,Eph,Ephedra
+92,Ercae,Ericaceae
+640,Lon.cn,Lonicera canadensis
+715,Pru,Prunus
+719,Pru.v,Prunus virginiana
+716,Pru.p,Prunus pensylvanica
+768,Vib.a,Viburnum alnifolium
+74,Cypae,Cyperaceae
+25,Art,Artemisia
+345,Amb,Ambrosia
+418,Astae.As,Asteraceae subf. Asteroideae
+311,Apiae,Apiaceae
+420,Braae,Brassicaceae
+3419,Cdu-t,Carduus-type
+45,Cryae,Caryophyllaceae
+596,Cheae,Chenopodiaceae
+617,Epi.a-t,Epilobium angustifolium-type
+346,Fabae,Fabaceae
+1428,Fil,Filipendula
+480,Pln,Plantago
+417,Poaae,Poaceae
+233,Pol.la-t,Polygonum lapathifolium-type
+355,Rosae.ud,Rosaceae undiff.
+735,Rum-t,Rumex-type
+748,Sax.st-t,Saxifraga stellaris-type
+300,Tha,Thalictrum
+464,Urtae,Urticaceae
+312,ind,Indeterminable
+190,Nup,Nuphar
+308,Ty/Sp,Typha/Sparganium
+711,Po/Tr,Potamogeton/Triglochin
+584,cf.Cll,cf. Callitriche
+309,Typ.l,Typha latifolia
+3728,Elod.cf,cf. Elodea
+168,Lyc.a,Lycopodium annotinum
+651,Lyc.o-t,Lycopodium obscurum-type
+720,Ptr.a,Pteridium aquilinum
+348,sp.m,Spore (monolete)
+339,sp.t,Spore (trilete)
+294,Spg,Sphagnum
+202,Pdi,Pediastrum
+933,APS,Author's pollen sum
+922,residu.g,"Sample mass (of prepared, g)"
+920,sanCg/ml,"Sand (concentration, g/ml)"
+95,Euc.spik,Eucalyptus spike (number counted)
+927,PCEuc/ml,Pollen concentration - Eucalyptus method (grains/ml)
+1,Abi,Abies
+3644,Abi.a,Abies alba
+2651,Abi.n,Abies nordmanniana
+1500,Abr,Abronia
+2326,Abu,Abutilon
+1707,Abu-t,Abutilon-type
+1580,Acc,Acacia
+2365,Acc.I,Acacia (type I)
+2366,Acc.III,Acacia (type III)
+1021,Acn,Acaena
+2165,Acn-t,Acaena-type
+2,Acl,Acalypha
+1887,Acl.lar,Acalypha (large)
+1916,Acl.2,Acalypha (type 2)
+2596,Acl.cf.r,Acalypha cf. A. rhomboidea
+1889,Acl.ud,Acalypha undiff.
+1716,Acaae,Acanthaceae
+2453,Acaae.ud,Acanthaceae undiff.
+2440,Aca,Acanthus
+338,Ace,Acer
+3476,Ace.cf.g,Acer cf. A. glabrum
+3165,Ace.cf.n,Acer cf. A. negundo
+552,Ace.cf.p,Acer cf. A. pensylvanicum
+864,Ace.ci,Acer circinatum
+1464,Ace.ci-t,Acer circinatum-type
+1411,Ace.gl,Acer glabrum
+865,Ace.ma,Acer macrophyllum
+970,Ace.ma-t,Acer macrophyllum-type
+4,Ace.ne,Acer negundo
+803,Ace.ne-t,Acer negundo-type
+553,Ace.ni,Acer nigrum
+1318,Ace.pl,Acer platanoides
+3627,Ace.ru-t,Acer rubrum-type
+554,Ace.sc,Acer saccharinum
+7,Ace.sc-t,Acer saccharinum-type
+3,Ace.sa-t,Acer saccharum-type
+9,Ace.ud,Acer undiff.
+3166,Aceae,Aceraceae
+820,Ach-t,Achillea-type
+2445,Ahy,Achyranthes
+2446,Ahy.a,Achyranthes aspera
+2805,Acp,Aciphylla
+1143,Acm,Aconitum
+3561,Acm-t,Aconitum-type
+2240,Acg,Aconogonon
+2241,Acg.a,Aconogonon alaskanum
+2625,Acg.t,Aconogonon tripterocarpum
+556,Aco.c,Acorus calamus
+1130,Acr,Acrostichum
+1917,Acr-t,Acrostichum-type
+1176,Act,Actaea
+3381,Atiae,Actinidiaceae
+1762,Aci.c,Actinostemon concolor
+1652,Ade,Adesmia
+3218,,Adiantaceae
+10,Adi,Adiantum
+948,Adi.p,Adiantum pedatum
+1092,Adi-t,Adiantum-type
+3714,Ado-t,Adonis-type
+2520,Aer,Aerva
+2499,Aec,Aeschynomene
+2500,Aec.b,Aeschynomene baumii
+11,Aes,Aesculus
+1599,Aexae,Aextoxicaceae
+1035,Aex.p,Aextoxicon punctatum
+2382,Afr,Afrocrania
+2383,Afr.v,Afrocrania volkensii
+3653,Agn-t,Agalinis-type
+1399,Ags-t,Agastache-type
+2863,Aga,Agathis
+2371,Agvae,Agavaceae
+1479,Agv,Agave
+3506,Age.h,Ageratum houstonianum
+1337,Agr-t,Agrostemma-type
+2506,Aid,Aidia
+2507,Aid.m,Aidia micrantha
+2483,Alh,Alchemilla
+1708,Alc,Alchornea
+1888,Alc.2,Alchornea (type 2)
+2544,Alc.ud,Alchornea undiff.
+3219,Alc/Apm,Alchornea/Aparisthmium
+2081,Alf,Alfaroa
+1709,Al/Or,Alfaroa/Oreomunnea
+1535,Alga.sp,Alga (spore)
+2054,Algae,Algae
+2817,Algae.ud,Algae undiff.
+513,Ali,Alisma
+3437,Ali.p-a,Alisma plantago-aquatica
+1177,Aliae,Alismataceae
+2149,Aliae.ud,Alismataceae undiff.
+3715,Alk,Alkanna
+2242,,Alliaceae
+1581,Alo,Allionia
+12,All,Allium
+557,All-t,Allium-type
+1822,Alp,Allophylus
+2243,,Alnaster fruticosus
+330,Aln,Alnus
+3662,Aln.P6,Alnus (hexaporate)
+3660,Aln.P5,Alnus (pentaporate)
+3659,Aln.P4,Alnus (tetraporate)
+3661,Aln.P3,Alnus (triporate)
+3134,Aln.a,Alnus acuminata
+1395,Aln.cf.i,Alnus cf. A. incana
+1394,Aln.cf.v,Alnus cf. A. viridis
+1362,,Alnus crispa
+1295,,Alnus fruticosa
+1299,Aln.g,Alnus glutinosa
+1300,Aln.h,Alnus hirsuta
+344,Aln.i,Alnus incana
+971,Aln.h-t,Alnus rhombifolia-type
+861,Aln.r,Alnus rubra
+264,Aln.r-t,Alnus rubra-type
+343,,Alnus rugosa
+342,,Alnus rugosa-type
+3512,Aln.s,Alnus serrulata
+860,,Alnus sinuata
+972,,Alnus sinuata-type
+15,Aln.ud,Alnus undiff.
+353,Aln.v,Alnus viridis
+3606,Aln.v.c,Alnus viridis subsp. crispa
+3607,Aln.vc-t,Alnus viridis subsp. crispa-type
+3683,Aln.v.f,Alnus viridis subsp. fruticosa
+3604,Aln.v.s,Alnus viridis subsp. sinuata
+3605,Aln.vs-t,Alnus viridis subsp. sinuata-type
+14,Aln.v-t,Alnus viridis-type
+3292,Aho,Alphitonia
+2974,Aso,Alsophila
+1823,Aso.cf.e,Alsophila cf. A. elegans
+3127,Aso.s,Alsophila setosa
+1763,Als,Alstroemeria
+1877,Alt,Alternanthera
+1861,Alt.II,Alternanthera (type II)
+2587,Alt.p,Alternanthera philoxeroides
+1711,Alt-t,Alternanthera-type
+3220,Amn,Amanoa
+1355,Amaae,Amaranthaceae
+2004,Amaae.ud,Amaranthaceae undiff.
+3501,Ama.a,Amaranthus australis
+401,Ama.r-t,Amaranthus retroflexus-type
+1824,Amr,Amaryllis
+3507,Amb.a,Ambrosia artemisiifolia
+2612,Am/Iv,Ambrosia/Iva
+16,Amb-t,Ambrosia-type
+558,Ame,Amelanchier
+354,Ame-t,Amelanchier-type
+402,Amo,Amorpha
+2215,Amo.c,Amorpha canescens
+2604,Amo.f,Amorpha fruticosa
+17,Amo-t,Amorpha-type
+2749,Apa,Amperea
+559,Amp,Amphitrema
+1188,Amp.c,Amphitrema congolense
+560,Amp.f,Amphitrema flavum
+1223,Amp.ud,Amphitrema undiff.
+561,Amp.w,Amphitrema wrightianum
+2806,Amy,Amyema
+347,Anaae,Anacardiaceae
+18,Anaae.ud,Anacardiaceae undiff.
+226,Anaae-t,Anacardiaceae-type
+1239,Anaae-tu,Anacardiaceae-type undiff.
+2007,Ana,Anacardium
+1712,Ana-t,Anacardium-type
+2481,Agl,Anagallis
+1878,Ada-t,Andira-type
+2055,Add,Andradea
+562,And,Andromeda
+563,And.g,Andromeda glaucophylla
+564,And.p,Andromeda polyfolia
+3534,Apg,Andropogon
+1154,Adr,Androsace
+1953,Anm,Anemia
+1142,Ane,Anemone
+403,Ane.c-t,Anemone canadensis-type
+406,Ane.q-t,Anemone quinquefolia-type
+1161,Ane-t,Anemone-type
+2807,Ang-t,Angophora-type
+3293,Annae,Annonaceae
+3438,Ate-t,Anthemis-type
+1344,Ant,Anthoceros
+1801,Ant.l,Anthoceros laevis
+1575,,Anthoceros punctatus
+1802,Antae,Anthocerotaceae
+2330,Antes,Anthocerotales
+2327,Antes.1,Anthocerotales type 1
+2328,Antes.2,Anthocerotales type 2
+2329,Antes.3,Anthocerotales type 3
+2361,Anc,Anthocleista
+3221,Ads,Anthodiscus
+2484,Atm,Anthospermum
+3222,Atu,Anthurium
+3294,Anh,Antirhea
+3295,,Antirrhoea
+1713,Ape,Apeiba
+1715,Aph,Aphelandra
+3033,Apiae.I,Apiaceae (type I)
+3034,Apiae.II,Apiaceae (type II)
+1439,cf.Siu.s,Apiaceae cf. Sium suave
+1172,Apiae.ud,Apiaceae undiff.
+1764,Api,Apium
+228,Apoae,Apocynaceae
+2148,Apoae.ud,Apocynaceae undiff.
+1825,Apoae-t,Apocynaceae-type
+2144,Apoae-t4,Apocynaceae-type (tetraporate)
+1886,Apoae-tu,Apocynaceae-type undiff.
+19,Apo,Apocynum
+2390,Apd,Apodytes
+2389,Apd.d,Apodytes dimidiata
+1879,Apu-t,Apuleia-type
+2872,aquatics,Aquatics
+20,aquat.ud,Aquatics undiff.
+21,Aquae,Aquifoliaceae
+1270,Aql,Aquilegia
+859,Arcae,Araceae
+3289,Arcae.ud,Araceae undiff.
+1939,Arg,Aragoa
+2607,Ara,Aralia
+565,Ara.h,Aralia hispida
+22,Araae,Araliaceae
+3291,Araae.ud,Araliaceae undiff.
+1678,Aru,Araucaria
+1765,Aru.a,Araucaria angustifolia
+1679,Aruae,Araucariaceae
+1189,Arl,Arcella
+566,Arl.a,Arcella artocrea
+2190,Arl.d,Arcella discoides
+2192,Arl.r,Arcella rotundata
+23,Arc,Arceuthobium
+1014,Arc.a,Arceuthobium americanum
+567,Arc.p,Arceuthobium pusillum
+248,Ar/Lo,Arceuthobium/Loranthaceae
+1162,Arp,Arctostaphylos
+3612,Arp.a/r,Arctostaphylos alpina/A. rubra
+568,Arp.u,Arctostaphylos uva-ursi
+2182,ase.cm2,Area slide examined (cm_)
+199,Areae,Arecaceae
+3223,Are.x.Ma,Arecaceae (excluding Mauritia)
+1882,Areae.C1,Arecaceae (monocolpate)
+1883,Areae.C3,Arecaceae (tricolpate)
+3015,Areae.I,Arecaceae (type I)
+3016,Areae.II,Arecaceae (type II)
+910,Areae.ud,Arecaceae undiff.
+1134,Areae-t,Arecaceae-type
+1230,Areae-tu,Arecaceae-type undiff.
+994,Arn,Arenaria
+1600,Ari,Aristotelia
+24,Arm,Armeria
+2939,Arm.A,Armeria (type A)
+2940,Arm.B,Armeria (type B)
+569,Arm.m,Armeria maritima
+1884,Arr,Arrabidaea
+3562,Art.ha-t,Artemisia herba-alba-type
+3620,Art.ud,Artemisia undiff.
+3563,Art.v-t,Artemisia vulgaris-type
+1960,Ar/Go,Artemisia/Gochnatia
+1602,Art-t,Artemisia-type
+3296,Ary,Arytera
+3347,Asr,Ascarina
+2465,Asc,Ascolepis
+2693,Asa,Asperula
+3564,Asd,Asphodelus
+3224,Apl,Aspilia
+1574,Apr.p,Aspiromitus punctatus
+1918,Aspae,Aspleniaceae
+1348,Asp,Asplenium
+962,Asp.r,Asplenium rhizophyllum
+1890,Asp-t,Asplenium-type
+570,Ass,Assulina
+571,Ass.m,Assulina muscorum
+572,Ass.s,Assulina seminulum
+1224,Ass.ud,Assulina undiff.
+1636,Asl,Astelia
+1049,Asl.p,Astelia pumila
+2652,Ast,Aster
+409,Astae,Asteraceae
+876,Astae.hs,Asteraceae (high spine)
+2610,Astae.lo,Asteraceae (lophate)
+877,Astae.ls,Asteraceae (low spine)
+2877,Astae.ns,Asteraceae (spineless)
+3202,Ast.As.c,Asteraceae subf. Asteroideae (coarse-spine)
+3177,Ast.As.h,Asteraceae subf. Asteroideae (high-spine)
+3178,Ast.As.l,Asteraceae subf. Asteroideae (low-spine)
+2808,Astae.A1,Asteraceae subf. Asteroideae 1
+2809,Astae.A2,Asteraceae subf. Asteroideae 2
+2810,Astae.A3,Asteraceae subf. Asteroideae 3
+2811,Astae.A4,Asteraceae subf. Asteroideae 4
+2812,Astae.A5,Asteraceae subf. Asteroideae 5
+2868,cf.Ewa,Asteraceae subf. Asteroideae cf. Ewartia
+1961,Ast.A.I,Asteraceae subf. Asteroideae type I
+1962,Ast.A.II,Asteraceae subf. Asteroideae type II
+307,Astae.Au,Asteraceae subf. Asteroideae undiff.
+160,Astae.Ci,Asteraceae subf. Cichorioideae
+3035,Astae.Cu,Asteraceae subf. Cichorioideae undiff.
+3668,Astae.Am,Asteraceae subtribe Ambrosiinae
+413,Astae.Cy,Asteraceae tribe Cynareae
+1477,As.He.ud,Asteraceae tribe Heliantheae undiff.
+3669,Astae.He,Asteraceae tribe Helianthinae
+2463,Astae.La,Asteraceae tribe Lactuceae
+1020,Astae.Mu,Asteraceae tribe Mutisieae
+1759,Astae.Md,Asteraceae tribe Mutisieae undiff.
+2491,Astae.Ve,Asteraceae tribe Vernonieae
+61,Astae.ud,Asteraceae undiff.
+1478,As.ud.cl,Asteraceae undiff. clumps
+3439,Ast-t,Aster-type
+1002,Asg,Astragalus
+2914,Asg.a,Astragalus alpinus
+2915,Asg.a-t,Astragalus alpinus-type
+2956,As/Lu,Astragalus/Lupinus
+3494,Asg/Vic,Astragalus/Vicia
+1163,Asg-t,Astragalus-type
+1963,Asm,Astronium
+2104,Ata,Atamisquea
+2813,Ats,Atherosperma
+26,Ath,Athyrium
+2653,Ath.a,Athyrium alpestre
+2654,Ath.a-t,Athyrium alpestre-type
+1368,,Athyrium crenatum
+2655,,Athyrium distentifolium
+2656,,Athyrium distentifolium-type
+573,Ath.f,Athyrium filix-femina
+1384,,Athyrium thelypterioides
+950,Ath.ud,Athyrium undiff.
+2621,Ath-t,Athyrium-type
+1670,,Austrocedrus
+1669,Aus.c,Austrocedrus chilensis
+1653,Aus.c-t,Austrocedrus chilensis-type
+1654,,Austrocedrus-type
+415,Av/Tr,Avena/Triticum
+1221,Av/Tr.ud,Avena/Triticum undiff.
+414,Ave-t,Avena-type
+1131,Avi,Avicennia
+1964,Aye,Ayenia
+1603,Aza,Azara
+27,Azo,Azolla
+3036,Azo.meg,Azolla (megaspore)
+2694,Azo.gloc,Azolla glochidia
+2521,Azo.n,Azolla nilotica
+1022,Azr,Azorella
+3297,Bcc,Baccaurea
+3037,Bac,Baccharis
+3508,Bac.g,Baccharis glomeruliflora
+1766,Bac-t,Baccharis-type
+1965,Bal,Balfourodendron
+3460,Blsae,Balsaminaceae
+2814,Blt,Baltishaeridium
+1966,Ban,Banara
+3038,Ba/Xy,Banara/Xylosma
+1767,Ban-t,Banara-type
+3225,Bns,Banisteriopsis
+2695,Bnk,Banksia
+2815,Bnk.m,Banksia marginata
+2405,Bap,Baphiopsis
+2406,Bap.p,Baphiopsis parviflora
+3645,Bab-t,Barbarea-type
+1967,Bth,Bathysa
+1480,Bat,Batis
+1968,Bau,Bauhinia
+1969,Beg,Begonia
+1970,Begae,Begoniaceae
+1971,Bel,Belangera
+3348,Blv,Belvisia
+867,Brbae,Berberidaceae
+1631,Brb,Berberis
+973,Brb-t,Berberis-type
+938,Brc.s,Berchemia scandens
+28,Ber-t,Berlandiera-type
+3040,Brn,Bernardia
+3039,Brn.cf.p,Bernardia cf. B. pulchella
+2391,Brm,Bersama
+2393,Brm.a,Bersama abyssinica
+2547,Bta.v-t,Beta vulgaris-type
+1432,Bet<20,Betula (<20 _m)
+1431,Bet>20,Betula (>20 _m)
+919,Bet.co,Betula (corroded)
+574,Bet.sh,Betula (shrub)
+857,Bet.tr,Betula (tree)
+575,Bet.al,Betula alleghaniensis
+1010,Bet.d.sh,Betula det. Betula (shrub)
+1009,Bet.d.tr,Betula det. Betula (tree)
+3674,Bet.di,Betula divaricata
+3126,,Betula exilis
+1578,Bet.fr,Betula fruticosa
+3431,Bet.hu,Betula humilis
+3675,,Betula middendorffii
+3208,Bet.na,Betula nana
+1577,Bet.na.e,Betula nana subsp. exilis
+3643,Bet.na-t,Betula nana-type
+576,Bet.pa,Betula papyrifera
+3461,Bet.pe,Betula pendula
+1579,Bet.pl,Betula platyphylla
+3462,Bet.pu,Betula pubescens
+3676,,Betula sect. Albae
+1289,Bet.Be,Betula sect. Betula
+3678,Bet.Co,Betula sect. Costatae
+1291,Bet.Fr,Betula sect. Fruticosae
+3677,Bet.Hu,Betula sect. Humiles
+1290,Bet.Na,Betula sect. Nanae
+1011,Bet.ud,Betula undiff.
+2890,Be/Co/My,Betula/Corylus/Myrica
+327,Betae,Betulaceae
+357,Betae.ud,Betulaceae undiff.
+1259,Be/My,Betulaceae/Myricaceae
+1258,Be/My.ud,Betulaceae/Myricaceae undiff.
+30,Bet.gr.d,Betula-grain diameter
+349,Bid,Bidens
+31,Bid-t,Bidens-type
+1885,Bigae,Bignoniaceae
+3290,Bigae.ud,Bignoniaceae undiff.
+3433,,Bilderdykia convolvulus
+2697,Bil,Billardiera
+2696,Bil.s,Billardiera scandens
+3298,Bis,Bischofia
+2246,,Bistorta
+537,,Bistorta bistortoides
+577,Bit.t,Bitectatodinium tepikiense
+2676,Bleae,Blechnaceae
+2675,Ble,Blechnum
+1768,,Blechnum cf. B. imperiale
+3129,Ble.cf.t,Blechnum cf. B. tabulare
+1826,,Blechnum imperiale-type
+3513,Ble.s,Blechnum serrulatum
+3130,Ble.t-t,Blechnum tabulare-type
+1058,Ble-t,Blechnum-type
+2431,Bli,Blighia
+2432,Bli.u,Blighia unijugata
+1891,Boc,Bocconia
+1353,Boe,Boehmeria
+2605,Boe-t,Boehmeria-type
+1533,Brh,Boerhavia
+1717,Bomae,Bombacaceae
+3286,Bomae.ud,Bombacaceae undiff.
+3092,Bon,Bonamia
+32,Borae,Boraginaceae
+1537,Borae.Mp,Boraginaceae cf. Mertensia paniculata
+1074,Borae.ud,Boraginaceae undiff.
+1827,Brr,Borreria
+3041,Brr.cf.l,Borreria cf. B. latifolia
+3139,Brr.ud,Borreria undiff.
+2816,Bos,Bossiaea
+33,Bot,Botrychium
+1349,Bot.b,Botrychium boreale
+2216,Bot.cf.d,Botrychium cf. B. dissectum
+2586,Bot.cf.l,Botrychium cf. B. lunaria
+1536,Bot.cf.m,Botrychium cf. B. multifidum
+914,Bot.la,Botrychium lanceolatum
+1458,Bot.lu,Botrychium lunaria
+951,Bot.m,Botrychium multifidum
+548,Bot.s,Botrychium simplex
+2321,Bot.s-t,Botrychium simplex-type
+952,Bot.ud,Botrychium undiff.
+851,Bot.v,Botrychium virginianum
+1068,Bot-t,Botrychium-type
+326,Btr,Botryococcus
+2818,Btr.b,Botryococcus braunii
+1698,Bou,Bougainvillea
+2348,Bch,Brachystegia
+34,Brs.s,Brasenia schreberi
+419,Bra,Brassica
+3212,,Brassica kaber
+898,cf.Bra,Brassicaceae cf. Brassica
+70,Braae.ud,Brassicaceae undiff.
+2948,Braae-t,Brassicaceae-type
+2947,Braae-tu,Brassicaceae-type undiff.
+1957,Bra-t,Brassica-type
+1718,Brv,Bravaisia
+2353,Brd,Bridelia
+580,Bri,Brigantedinium
+581,Bri.s,Brigantedinium simplex
+878,Broea,Bromeliaceae
+1828,Broea.I,Bromeliaceae (type I)
+1240,Broea.ud,Bromeliaceae undiff.
+2075,Bsm,Brosimum
+1164,Bryes,Bryales
+3685,Bryes.ud,Bryales undiff.
+1168,Bryta,Bryophyta
+1243,Bryta.ud,Bryophyta undiff.
+659,Bryda,Bryopsida
+187,Bryda.ud,Bryopsida undiff.
+1972,Buc,Buchnera
+1117,Bud,Buddleja
+3042,Budae,Buddlejaceae
+3043,Bud-t,Buddleja-type
+2699,Blb-t,Bulbinopsis-type
+1190,Bul.i,Bullinularia indica
+36,Bum,Bumelia
+1919,Bum-t,Bumelia-type
+1012,Bup,Bupleurum
+1267,Bup-t,Bupleurum-type
+2750,Bus,Bursaria
+37,Bur,Bursera
+3184,Bur.m,Bursera microphylla
+3573,Bur.s,Bursera simaruba
+2036,Burae,Burseraceae
+3287,Burae.ud,Burseraceae undiff.
+3463,,Butomaceae
+582,But.u,Butomus umbellatus
+2629,Buxae,Buxaceae
+2628,Bux,Buxus
+1719,Byr,Byrsonima
+1892,Byr-t,Byrsonima-type
+38,Cab,Cabomba
+3123,Cabae,Cabombaceae
+1680,Cacae,Cactaceae
+3186,Cacae.ud,Cactaceae undiff.
+1880,Caeae,Caesalpiniaceae
+2151,Caeae.ud,Caesalpiniaceae undiff.
+2331,Cae-t,Caesalpinia-type
+2106,Cld,Calandrinia
+1893,Ccl,Calceolaria
+583,Caa.p,Calla palustris
+3093,Cdr,Calliandra
+3687,Ro:Cal.a,Callidina angusticollis
+2819,Cai,Callistemon
+39,Cll,Callitriche
+2700,Cli,Callitris
+2898,,Calluna
+2897,Clv.v,Calluna vulgaris
+3299,Clp,Calophyllum
+40,Cal,Caltha
+3146,,Caltha biflora
+2231,Cal.l,Caltha leptosepala
+2944,Cal.p,Caltha palustris
+585,Cal-t,Caltha-type
+3121,Clcae,Calycanthaceae
+939,Clc,Calycanthus
+3514,Clc.f,Calycanthus floridus
+1681,Cyc,Calycera
+1682,Cycae,Calyceraceae
+3300,Cyi,Calycosia
+1517,Cyg,Calystegia
+1338,Cyg.s,Calystegia sepium
+872,Cma,Camassia
+974,Cma-t,Camassia-type
+813,Cam,Campanula
+421,Cam.a-t,Campanula aparinoides-type
+422,Cam.r-t,Campanula rotundifolia-type
+423,,Campanula uliginosa-type
+351,Camae,Campanulaceae
+41,Camae.ud,Campanulaceae undiff.
+586,Cam-t,Campanula-type
+1975,Cmp,Campomanesia
+42,Canae,Cannabaceae
+1208,Canae.ud,Cannabaceae undiff.
+2899,Canae-t,Cannabaceae-type
+426,Can.s,Cannabis sativa
+424,Can.s-t,Cannabis sativa-type
+1582,Cao,Canotia
+2415,Cth,Canthium
+2416,Cth.g,Canthium gueinzii
+2417,Cth.s,Canthium schimperianum
+1829,Cpr-t,Caperonia-type
+2105,Cppae,Capparaceae
+394,Capae,Caprifoliaceae
+43,Capae.ud,Caprifoliaceae undiff.
+3565,Cpe-t,Capsella-type
+3230,Cia,Caraipa
+531,carb%dm,Carbonates (percent dry mass)
+2178,Cp,Carbonized particles
+3017,Cp>5,Carbonized particles (>5 _m)
+3045,Cp>50,Carbonized particles (>50 _m)
+2973,Cp5-150,Carbonized particles (5-150 _m)
+3044,Cp5-50,Carbonized particles (5-50 _m)
+3046,Cp/ml,Carbonized particles (particles/ml)
+2248,Crd,Cardamine
+3689,Crd.pr-t,Cardamine pratensis-type
+1086,Crd-t,Cardamine-type
+1721,Cdm,Cardiospermum
+2332,Cdm.cf.h,Cardiospermum cf. C. halicacabum
+2460,Cdu,Carduus
+1297,Crx,Carex
+1976,Cna,Cariniana
+3185,Cng-t,Carnegiea-type
+1429,Cpn,Carpinus
+1319,Cpn.b,Carpinus betulus
+1332,Cpn.o,Carpinus orientalis
+1505,Cpn-t,Carpinus-type
+44,Car,Carya
+1978,Cyo,Caryocar
+1979,Cyoae,Caryocaraceae
+2090,Cryae.sm,Caryophyllaceae (small)
+1280,C.cf.Dth,Caryophyllaceae cf. Dianthus
+2234,cf.Lyn,Caryophyllaceae cf. Lychnis
+2701,cf.Ste.p,Caryophyllaceae cf. Stellaria pungens
+1013,Cryae.ud,Caryophyllaceae undiff.
+3392,Ca/Ch,Caryophyllaceae/Chenopodiaceae
+1980,Cse.re,Casearia (reticulate)
+2056,Css,Cassia
+2380,Css.m,Cassia mimosoides
+1958,Css-t,Cassia-type
+1153,Csp,Cassiope
+589,Csp.t-t,Cassiope tetragona-type
+2643,Csp-t,Cassiope-type
+47,Cas,Castanea
+590,Cas.d,Castanea dentata
+2657,Cas.s,Castanea sativa
+3349,Cnp/Lth,Castanopsis/Lithocarpus
+1894,Cst-t,Castilla-type
+1276,Cja,Castilleja
+2704,Csr,Casuarina
+2702,Csr<23,Casuarina (<23 _m)
+2751,Csr<25,Casuarina (<25 _m)
+2703,Csr>23,Casuarina (>23 _m)
+3516,Csr.l,Casuarina litorea
+2752,Csr.ud,Casuarina undiff.
+2865,Csrae,Casuarinaceae
+1561,Cat.s,Catalpa speciosa
+3232,Cto,Catostemma
+1085,Cau,Caulophyllum
+2589,Cau.t,Caulophyllum thalictroides
+48,Cea,Ceanothus
+1472,Cea-t,Ceanothus-type
+781,Cec,Cecropia
+1817,Cecae,Cecropiaceae
+3095,Cdl,Cedrela
+3094,Cdl.cf.f,Cedrela cf. C. fissilis
+2249,Ced,Cedrus
+1562,Clsae,Celastraceae
+2350,Ce/Hi,Celastraceae/Hippocrateaceae
+359,Cls,Celastrus
+2447,Csa,Celosia
+2448,Csa.t,Celosia trigyna
+49,Cel,Celtis
+1981,Cel.P4,Celtis (tetraporate)
+591,Cel.o,Celtis occidentalis
+2147,Cel.ud,Celtis undiff.
+829,Ce/Ma,Celtis/Maclura
+946,Ce/Ma-t,Celtis/Maclura-type
+1415,Cel-t,Celtis-type
+592,Cen,Centaurea
+1336,Cen.cy,Centaurea cyanus
+3566,Cen.cy-t,Centaurea cyanus-type
+3440,Cen.ja,Centaurea jacea
+3441,Cen.sc,Centaurea scabiosa
+3567,Cen.sc-t,Centaurea scabiosa-type
+3568,Cen.so-t,Centaurea solstitialis-type
+1392,Cen.ud,Centaurea undiff.
+1510,Cen-t,Centaurea-type
+2797,Ctu,Centaurium
+1641,Cntae,Centrolepidaceae
+2753,Ce/Re,Centrolepidaceae/Restionaceae
+1191,Cex,Centropyxis
+2187,Cex.a,Centropyxis aculeata
+2189,Cex.e,Centropyxis aerophyla
+2188,Cex.d,Centropyxis discoides
+50,Cep,Cephalanthus
+593,Cep.o,Cephalanthus occidentalis
+1530,Crs,Cerastium
+2451,Crs.a,Cerastium afromontanum
+2452,Crs.o,Cerastium octandrum
+999,Crs-t,Cerastium-type
+51,Crt.e,Ceratiola ericoides
+1100,Crt.e-t,Ceratiola ericoides-type
+3710,Cpm,Ceratophyllum
+894,Cerat.sp,Ceratophyllum spine
+1583,Cci,Cercidium
+3479,Ccs,Cercis
+1103,Crc,Cercocarpus
+2951,Ce/Co,Cercocarpus/Cowania
+984,Crc-t,Cercocarpus-type
+416,Cer,Cerealia
+427,Cer.ud,Cerealia undiff.
+1947,Cer-t,Cerealia-type
+2941,Cer-t.ud,Cerealia-type undiff.
+1982,Ces,Cestrum
+2180,cf.Adi,cf. Adiantum
+1115,cf.Agv,cf. Agave
+1118,cf.Amo,cf. Amorpha
+2606,cf.Ant,cf. Anthoceros
+3159,cf.Aql,cf. Aquilegia
+2592,cf.Arb.g,cf. Arabis glabra
+1911,cf.Arcae,cf. Araceae
+1185,cf.Art,cf. Artemisia
+2802,cf.Asi,cf. Asimina
+2585,cf.Asp,cf. Asplenium
+2705,cf.Asl,cf. Astelia
+1140,cf.Bet,cf. Betula
+3302,cf.Ble,cf. Blechnum
+578,cf.Boc,cf. Boconnia
+1559,cf.Bot,cf. Botrychium
+2616,cf.Brs.s,cf. Brasenia schreberi
+1120,cf.Braae,cf. Brassicaceae
+1895,cf.Bud,cf. Buddleja
+1088,cf.Cal,cf. Caltha
+3665,cf.Cam,cf. Campanula
+3301,cf.Cth,cf. Canthium
+1271,cf.Cja,cf. Castilleja
+899,cf.Cea,cf. Ceanothus
+987,cf.Cea.v,cf. Ceanothus velutinus
+2631,cf.Cel,cf. Celtis
+2218,cf.Cep,cf. Cephalanthus
+1495,cf.Crc,cf. Cercocarpus
+3638,cf.Cisae,cf. Cistaceae
+2184,cf.Cle,cf. Clethra
+2967,cf.Col,cf. Collinsia
+1945,cf.Cupae,cf. Cupressaceae
+1948,cf.Cys,cf. Cystopteris
+1497,cf.Dal,cf. Dalea
+2573,cf.Dec.v,cf. Decodon verticillatus
+606,cf.Dia.l,cf. Diapensia lapponica
+1482,cf.Dod,cf. Dodecatheon
+3650,cf.Dry,cf. Dryas
+1112,cf.Elaae,cf. Elaeagnaceae
+2194,Fu:cEntl,cf. Entophlyctis lobata
+1272,cf.Equ,cf. Equisetum
+900,cf.Erg,cf. Eriogonum
+1248,cf.Fra,cf. Fraxinus
+1205,cf.Gen,cf. Gentiana
+2577,cf.Ger,cf. Geranium
+2236,cf.Gil,cf. Gilia
+2889,cf.Glc,cf. Gleichenia
+2854,cf.Gooae,cf. Goodeniaceae
+892,cf.Gym,cf. Gymnocarpium
+2603,cf.Hed,cf. Hedysarum
+1436,cf.Heu.r,cf. Heuchera richardsonii
+3711,cf.Hor,cf. Hordeum
+1255,cf.Hum,cf. Humulus
+1141,cf.Hup.l,cf. Huperzia lucidula
+647,cf.Hyp,cf. Hypericum
+2576,cf.Ilx,cf. Ilex
+3613,cf.Jug,cf. Juglans
+3712,cf.Jnc,cf. Juncus
+1920,cf.Jun,cf. Juniperus
+629,cf.Jun.c,cf. Juniperus communis
+1498,cf.Lep,cf. Leptodactylon
+3483,cf.Lew,cf. Lewisia
+1485,cf.Lim,cf. Limonium
+1486,cf.Lna,cf. Linanthus
+2208,cf.Lnr.c,cf. Linaria canadensis
+3639,cf.Lnn.b,cf. Linnaea borealis
+3214,cf.Lin,cf. Linum
+3394,cf.Lir,cf. Liriodendron
+1080,cf.Lit,cf. Littorella
+2594,cf.Lob.s,cf. Lobelia siphilitica
+2916,cf.Lot,cf. Lotus
+3614,cf.Lys,cf. Lysimachia
+2217,cf.Lys.t,cf. Lysimachia thyrsiflora
+1921,cf.Melae,cf. Meliaceae
+3303,cf.Mlo,cf. Melochia
+889,cf.Men.t,cf. Menyanthes trifoliata
+1437,cf.Mer.p,cf. Mertensia paniculata
+3664,cf.Mir,cf. Mirabilis
+2204,cf.Mit.n,cf. Mitella nuda
+658,cf.Mni,cf. Mnium
+1116,cf.Mor,cf. Morus
+1119,cf.Myr,cf. Myrica
+1896,cf.Mrsae,cf. Myrsinaceae
+1508,cf.Nem,cf. Nemopanthus
+2575,cf.Nym,cf. Nymphaea
+2582,cf.Ono.s,cf. Onoclea sensibilis
+1949,cf.Oph,cf. Ophioglossum
+1090,cf.Osu,cf. Osmunda
+3608,cf.Os/Ca,cf. Ostrya/Carpinus
+2645,cf.Oxa,cf. Oxalis
+681,cf.Oxy.d,cf. Oxyria digyna
+3350,cf.Pan,cf. Pandanus
+2201,cf.Par.p,cf. Parietaria pensylvanica
+1104,cf.Prn,cf. Parnassia
+989,cf.Ped,cf. Pedicularis
+3304,cf.Pem,cf. Pemphis
+1438,cf.Pen,cf. Penthorum sedoides
+1046,cf.Prz,cf. Perezia
+901,cf.Pha,cf. Phacelia
+2237,cf.Pha.h,cf. Phacelia hastata
+2867,cf.Pyl,cf. Phyllocladus
+2647,cf.Phs,cf. Physalis
+1898,cf.Pipae,cf. Piperaceae
+1111,cf.Pis,cf. Pistacia
+3576,cf.Plr.a,cf. Planera aquatica
+1594,cf.Pol,cf. Polygonum
+1595,c.Pol.bi,cf. Polygonum bistortoides
+2571,cf.Pop,cf. Populus
+2232,cf.Por,cf. Portulaca
+1570,cf.Porae,cf. Portulacaceae
+1286,cf.Pri,cf. Primula
+2233,cf.Priae,cf. Primulaceae
+718,cf.Pru.s,cf. Prunus serotina
+3305,cf.Ptr,cf. Pteridium
+3306,cf.Qun,cf. Quintinia
+1499,cf.Raf,cf. Rafinesquia
+1950,cf.Rhaae,cf. Rhamnaceae
+1071,cf.Rha,cf. Rhamnus
+2155,cf.Rha.a,cf. Rhamnus alnifolia
+1075,cf.Rhu,cf. Rhus
+879,cf.Rib,cf. Ribes
+1922,cf.Rcn.c,cf. Ricinus communis
+2020,cf.Rob,cf. Robinia
+1114,cf.Rosae,cf. Rosaceae
+3307,cf.Rbs,cf. Rubus
+2205,cf.Rbs.p,cf. Rubus pubescens
+1076,cf.Rum,cf. Rumex
+902,cf.Sam,cf. Sambucus
+2882,cf.Smo,cf. Samolus
+1077,cf.San,cf. Sanguisorba
+880,cf.Sapae,cf. Sapindaceae
+3396,cf.Sap,cf. Sapindus
+1899,cf.Spm,cf. Sapium
+1923,cf.Sptae,cf. Sapotaceae
+743,cf.Sar.v,cf. Sarcobatus vermiculatus
+3651,cf.Sax,cf. Saxifraga
+1264,cf.Saxae,cf. Saxifragaceae
+847,cf.Shz.p,cf. Scheuchzeria palustris
+990,cf.Scrae,cf. Scrophulariaceae
+2574,cf.She,cf. Shepherdia
+3716,cf.Spg,cf. Sphagnum
+3047,cf.Spy,cf. Spirogyra
+3344,cf.Stb,cf. Streblus
+757,cf.Txs,cf. Taxus
+2019,cf.Txs.c,cf. Taxus canadensis
+3398,cf.Thl.p,cf. Thelypteris palustris
+756,cf.Thu.o,cf. Thuja occidentalis
+2203,cf.Tid,cf. Tidestromia
+903,cf.Tox.r,cf. Toxicodendron radicans
+1113,cf.Tre,cf. Trema
+1560,cf.Val,cf. Valeriana
+3623,cf.Vlr,cf. Valerianella
+1079,cf.Ver,cf. Verbena
+792,cf.Verae,cf. Verbenaceae
+3666,cf.Vro,cf. Veronica
+2157,cf.Vib.l,cf. Viburnum lentago
+773,cf.Vio,cf. Viola
+2632,cf.Vit,cf. Vitis
+2548,cf.Wei,cf. Weinmannia
+3652,cf.Xan,cf. Xanthium
+46,Chs,Chamaecrista
+780,Chs.f-t,Chamaecrista fasciculata-type
+1101,Chs-t,Chamaecrista-type
+52,Chm,Chamaecyparis
+595,Chm.t,Chamaecyparis thyoides
+594,Chm-t,Chamaecyparis-type
+53,Cha.c,Chamaedaphne calyculata
+2250,,Chamaenerion angustifolium
+2252,,Chamaenerion latifolium
+2254,,Chamaenerion undiff.
+1830,Cho-t,Chamissoa-type
+3048,Chp,Chaptalia
+3415,C,Charcoal
+1238,CCum2/ml,"Charcoal (concentration, _m_/ml)"
+2247,CCcm2/ml,"Charcoal (concentration, cm_/ml)"
+3663,Crum2/pc,"Charcoal (ratio, _m_/pollen concentration)"
+1492,Cc,Charcoal fragments
+3493,Cc>100,Charcoal fragments (>100 _m)
+3491,Cc>125,Charcoal fragments (>125 _m)
+3557,Cc>24,Charcoal fragments (>24 _m)
+1242,C>30,Charcoal fragments (>30 _m)
+1284,C>50um2,Charcoal fragments (>50 _m_)
+3490,Cc100-25,Charcoal fragments (100-125 _m)
+1241,C12-20,Charcoal fragments (12-20 _m)
+3556,Cc14-24,Charcoal fragments (14-24 _m)
+3487,Cc25-50,Charcoal fragments (25-50 _m)
+3492,Cc50-100,Charcoal fragments (50-100 _m)
+3488,Cc50-75,Charcoal fragments (50-75 _m)
+3489,Cc75-100,Charcoal fragments (75-100 _m)
+1062,CcC0-25,"Charcoal fragments 0-25 _m (concentration, number/ml)"
+1065,CC100-50,"Charcoal fragments 100-150 _m (concentration, number/ml)"
+1063,CcC25-50,"Charcoal fragments 25-50 _m (concentration, number/ml)"
+1064,CC50-100,"Charcoal fragments 50-100 _m (concentration, number/ml)"
+502,Chl,Cheilanthes
+1569,Chl.a,Cheilanthes alabamensis
+2820,Che<20,Chenopodiaceae (<20 _m)
+2821,Che>20,Chenopodiaceae (>20 _m)
+3402,Cheae.ud,Chenopodiaceae undiff.
+391,Ch/Am,Chenopodiaceae/Amaranthaceae
+3002,Ch/Am.sm,Chenopodiaceae/Amaranthaceae (small)
+3558,Ch/Am.A,Chenopodiaceae/Amaranthaceae (type A)
+3559,Ch/Am.B,Chenopodiaceae/Amaranthaceae (type B)
+3560,Ch/Am.C,Chenopodiaceae/Amaranthaceae (type C)
+1769,Ch/Am.I,Chenopodiaceae/Amaranthaceae (type I)
+3032,Ch/Am.II,Chenopodiaceae/Amaranthaceae (type II)
+54,Ch/Am.ud,Chenopodiaceae/Amaranthaceae undiff.
+1924,Che.q-t,Chenopodium quinoa-type
+804,Che-t,Chenopodium-type
+1731,Clhae,Chloranthaceae
+2082,,Chlorophora
+1983,Cml,Chomelia
+1984,Csi,Chorisia
+1986,Chbae,Chrysobalanaceae
+2153,Chbae.ud,Chrysobalanaceae undiff.
+1985,Chb,Chrysobalanus
+1247,Chr,Chrysolepis
+863,Ch/Li,Chrysolepis/Lithocarpus
+2965,Chr-t,Chrysolepis-type
+1987,Chy,Chrysophyllum
+2436,Chy.b,Chrysophyllum bangweolense
+3049,Chy.m,Chrysophyllum marginatum
+3140,Chy.ud,Chrysophyllum undiff.
+2169,Chy.v-t,Chrysophyllum viride-type
+3690,Cso,Chrysosplenium
+2107,Chu,Chuquiraga
+2658,Cum,Cichorium
+2659,Cum-t,Cichorium-type
+3503,Cic.m,Cicuta mexicana
+821,Cir,Circaea
+2255,Cir.a,Circaea alpina
+1253,Crm,Cirsium
+822,Ci/Ca-t,Cirsium/Carduus-type
+3569,Crm/Gnd,Cirsium/Gundelia
+2918,Crm-t,Cirsium-type
+3457,Crm-t.ud,Cirsium-type undiff.
+2096,Csu,Cissus
+3480,Csu/Prt,Cissus/Parthenocissus
+55,Cisae,Cistaceae
+3420,Cis,Cistus
+2083,Ctx,Citharexylum
+56,Cit,Citrus
+57,Cla,Cladium
+992,Cla.j,Cladium jamaicense
+991,Cla.m,Cladium mariscoides
+2646,Cla.ud,Cladium undiff.
+2552,Cla-t,Cladium-type
+3458,Cla-t.ud,Cladium-type undiff.
+2424,Cln,Clausena
+2425,Cln.a,Clausena anisata
+2114,clay%cl,Clay (percent clastics)
+1526,clay%im,Clay (percent mass after LOI)
+854,Cly,Claytonia
+2256,Cly.ac,Claytonia acutifolia
+2257,Cly.ar,Claytonia arctica
+2626,Cly.sa,Claytonia sarmentosa
+2258,Cly.si,Claytonia sibirica
+2259,Cly.ud,Claytonia undiff.
+2260,Clt.v,Claytoniella vassilievii
+2519,Clm,Clematis
+1831,Clm.d,Clematis dioica
+3500,Clm-t,Clematis-type
+3179,Ceo,Cleome
+58,Cle,Clethra
+2408,Clf,Cliffortia
+2409,Clf.n,Cliffortia nitidula
+1199,Clo.i,Closterium idiosporium
+3231,Clu,Clusia
+1832,Clu.c,Clusia criuva
+1750,Cluae,Clusiaceae
+2354,Cut,Clutia
+1722,Cne,Cnemidaria
+1902,Cne.h-t,Cnemidaria horrida-type
+2559,Cn/Cy,Cnemidaria/Cyathea
+2804,Cn/Cy.ud,Cnemidaria/Cyathea undiff.
+2560,,Cnemidaria/Hemitelia
+2672,Cni,Cnidium
+2120,cgrav%cl,Coarse gravel (percent clastics)
+2115,csand%cl,Coarse sand (percent clastics)
+2116,csilt%cl,Coarse silt (percent clastics)
+1523,csilt%im,Coarse silt (percent mass after LOI)
+3233,Cco,Coccocypselum
+59,Coc,Coccoloba
+2754,Cod,Codonocarpus
+3577,Cdo,Codonorchis
+3498,Clr,Coelastrum
+2057,Coa,Collaea
+1481,Col,Collinsia
+3505,Cca.e,Colocasia esculentum
+1988,Clb,Colubrina
+60,Com,Comandra
+2333,Cbrae,Combretaceae
+257,Co/Me,Combretaceae/Melastomataceae
+1215,Co/Me.ud,Combretaceae/Melastomataceae undiff.
+1959,Cbrae-t,Combretaceae-type
+3234,Cbr-t,Combretum-type
+2706,Cos,Comesperma
+2458,Cmm,Commelina
+2459,Cmm.b,Commelina benghalensis
+1989,Cmmae,Commelinaceae
+3308,Cms,Commersonia
+3187,Cmc-t,Commicarpus-type
+2378,Cmi,Commiphora
+2379,Cmi.b,Commiphora boiviniana
+410,,Compositae
+597,Cpt.p,Comptonia peregrina
+1944,Conta,Coniferophyta
+1943,Conta.ud,Coniferophyta undiff.
+1991,Cnnae,Connaraceae
+1990,Cnn,Connarus
+1132,Cno,Conocarpus
+1327,Conae,Convolvulaceae
+1393,Conae.ud,Convolvulaceae undiff.
+1501,Con,Convolvulus
+429,,Convolvulus sepium
+1094,Con-t,Convolvulus-type
+1992,Cpf,Copaifera
+2170,Cpf-t,Copaifera-type
+2186,Copda.sp,Copepoda (spermatophores)
+2756,Cpo,Coprosma
+1204,Cop,Coptis
+3147,Cop.a,Coptis aspleniifolia
+1425,,Coptis groenlandica
+1424,Cop.t,Coptis trifolia
+3617,Cop-t,Coptis-type
+1724,Cda,Cordia
+1605,Cri,Coriaria
+1606,Criae,Coriariaceae
+1693,Crnae,Cornaceae
+361,Crn,Cornus
+599,Crn.al,Cornus alternifolia
+3632,Crn.am-t,Cornus amomum-type
+600,Crn.ca,Cornus canadensis
+831,Crn.ca-t,Cornus canadensis-type
+2598,Crn.cf.r,Cornus cf. C. rugosa
+1506,Crn.cf.s,Cornus cf. C. sericea
+830,Crn.fl,Cornus florida
+3635,,Cornus foemina-type
+3636,,Cornus obliqua-type
+3170,Crn.ra,Cornus racemosa
+601,Crn.ru,Cornus rugosa
+3570,Crn.sa,Cornus sanguinea
+579,Crn.se,Cornus sericea
+551,Crn.se-t,Cornus sericea-type
+602,,Cornus stolonifera
+360,,Cornus stolonifera-type
+1333,Crn.Kr,Cornus subg. Kraniopsis
+65,Crn.ud,Cornus undiff.
+2822,Crr,Correa
+1128,pres.245,"Corroded, degraded, or thinned"
+2261,Cyd,Corydalis
+358,,Corylaceae
+67,Cor,Corylus
+3157,Cor.am,Corylus americana
+1316,Cor.av,Corylus avellana
+2674,Cor.ud,Corylus undiff.
+1236,Cr/My.ud,Corylus/Myrica undiff.
+3399,Cor-t,Corylus-type
+3416,Cor-t.ud,Corylus-type undiff.
+2058,Coe,Couepia
+3571,Csn,Cousinia
+1993,Cou,Coutarea
+2962,Cow-t,Cowania-type
+2461,Csm,Crassocephalum
+2462,Csm.m,Crassocephalum montuosum
+3630,Cra,Crassula
+68,Craae,Crassulaceae
+1430,Crt,Crataegus
+69,Crt-t,Crataegus-type
+1124,K.t.sp,Cretaceous (trilete spore)
+544,Cret.t,Cretaceous types
+2059,Ctl,Crotalaria
+1770,Cro,Croton
+1900,Cro.b,Croton bogatense
+2012,Cro.Ju,Croton sect. Julocroton
+2150,Cro.ud,Croton undiff.
+1925,Cro-t,Croton-type
+1127,pres.68,Crumpled or broken
+3235,Cyh,Cryosophila
+1502,Cpa,Cryptantha
+1186,Crp,Cryptogramma
+2624,Crp.a,Cryptogramma acrostichoides
+1181,Crp.a/s,Cryptogramma acrostichoides/C. stelleri
+1459,Crp.cf.s,Cryptogramma cf. C. stelleri
+2660,Crp.c,Cryptogramma crispa
+1607,Cte,Ctenitis
+2334,Cucae,Cucurbitaceae
+2707,Cul,Culcita
+2823,Cul.d,Culcita dubia
+1630,Cunae,Cunoniaceae
+2060,Cpi,Cupania
+3309,Cps,Cupaniopsis
+1955,Cph,Cuphea
+3050,Cph.cf.i,Cuphea cf. C. ingrata
+1873,Cph.cf.u,Cuphea cf. C. urbaniana
+72,Cupae,Cupressaceae
+534,Cupae.ud,Cupressaceae undiff.
+1358,Cu/Ta,Cupressaceae/Taxaceae
+1274,Cu/Ta.ud,Cupressaceae/Taxaceae undiff.
+362,,Cupressaceae/Taxodiaceae
+760,,Cupressaceae/Taxodiaceae undiff.
+3609,Cupae-t,Cupressaceae-type
+1476,Cup,Cupressus
+1700,Cup-t,Cupressus-type
+1994,Cur,Curatella
+3008,Cur-t,Curatella-type
+73,Cus,Cuscuta
+1725,Cya,Cyathea
+3351,Cya25,Cyathea (25 _m)
+3352,Cya35,Cyathea (35 _m)
+3096,Cya.I,Cyathea (type I)
+3097,Cya.II,Cyathea (type II)
+3128,Cya.cf.d,Cyathea cf. C. delgadii
+1771,,Cyathea cf. C. schanschin
+3353,,Cyathea horrida-type
+3137,Cya.ud,Cyathea undiff.
+1723,Cyaae,Cyatheaceae
+2540,Cyaae.ud,Cyatheaceae undiff.
+3018,Cya-t,Cyathea-type
+2061,Cyb,Cybianthus
+3529,Cyn,Cynoctonum
+3019,Cypae<50,Cyperaceae (<50 _m)
+3020,Cypae>50,Cyperaceae (>50 _m)
+3354,Cypae20,Cyperaceae (20 _m)
+3355,Cypae27,Cyperaceae (27 _m)
+3356,Cypae29,Cyperaceae (29 _m)
+3357,Cypae31,Cyperaceae (31 _m)
+3358,Cypae.in,Cyperaceae (inaperturate)
+2884,Cypae1,Cyperaceae 1
+2885,Cypae2,Cyperaceae 2
+2238,cf.Rhy.a,Cyperaceae cf. Rhynchospora alba
+430,Cypae.ud,Cyperaceae undiff.
+3517,Cyp,Cyperus
+75,Cyr.r,Cyrilla racemiflora
+604,Cys,Cystopteris
+463,Cys.b,Cystopteris bulbifera
+605,Cys.f,Cystopteris fragilis
+839,Cys-t,Cystopteris-type
+3360,Dcs,Dacrycarpus
+3359,Dcs.sac3,Dacrycarpus (trisaccate)
+1017,Dac,Dacrydium
+1047,Dac.f,Dacrydium fonckii
+1926,Dac-t,Dacrydium-type
+431,Dal,Dalea
+432,Dal.c,Dalea candida
+204,Dal.c-t,Dalea candida-type
+3654,Dal.f-t,Dalea feayi-type
+433,Dal.p,Dalea purpurea
+205,Dal.p-t,Dalea purpurea-type
+203,Dal.ud,Dalea undiff.
+1833,Dlc,Dalechampia
+2680,Dap,Daphne
+3099,Dpn,Daphnopsis
+3098,Dpn.cf.b,Daphnopsis cf. D. beta
+1609,Das,Dasyphyllum
+3188,Dat,Datura
+2824,Dav,Daviesia
+76,Dec.v,Decodon verticillatus
+2627,Del,Delphinium
+3482,Del-t,Delphinium-type
+837,Den,Dennstaedtia
+1001,Den-t,Dennstaedtia-type
+949,Dep.a,Deparia acrostichoides
+3000,Dsh.a,Deschampsia antarctica
+1610,Des,Desfontainia
+2757,Dnl,Dianella
+2708,Dnl-t,Dianella-type
+2549,Dth-t,Dianthus-type
+1158,Dia,Diapensia
+78,Diaae,Diapensiaceae
+1996,Dyx,Diatenopteryx
+937,Dic,Dicentra
+2826,Dch,Dichosciadium
+2825,Dch.r,Dichosciadium ranunculaceum
+3519,,Dichromena colorata
+2709,Dck,Dicksonia
+1772,Dck.s,Dicksonia sellowiana
+2975,Dck-t,Dicksonia-type
+3310,Dcr,Dicranopteris
+3464,Dcm,Dicranum
+1773,Ddy,Didymopanax
+3021,Ddy.II,Didymopanax (type II)
+3142,Ddy.ud,Didymopanax undiff.
+2263,Die,Diervilla
+608,Dif,Difflugia
+609,Dif.o,Difflugia oviformis
+610,Dif.p,Diflugia pyriformis
+3311,Dil,Dillenia
+1995,Dilae,Dilleniaceae
+778,Dinda,Dinoflagellida
+2181,Dino.mar,Dinoflagellida (marine)
+628,Dinda.ud,Dinoflagellida undiff.
+3236,Dcl,Dioclea
+1563,Did,Diodia
+3655,Did.t,Diodia teres
+852,Dio,Diospyros
+79,Dio-t,Diospyros-type
+2661,Dph,Diphasiastrum
+167,Dph.a,Diphasiastrum alpinum
+649,Dph.a-t,Diphasiastrum alpinum-type
+1388,Dph.a-tu,Diphasiastrum alpinum-type undiff.
+648,Dph.c,Diphasiastrum complanatum
+3397,Dph.c/t,Diphasiastrum complanatum/D. tristachyum
+171,Dph.c-t,Diphasiastrum complanatum-type
+1387,Dph.c-tu,Diphasiastrum complanatum-type undiff.
+1183,Dph.s,Diphasiastrum sitchense
+3720,Dph.s/a,Diphasiastrum sitchense/D. alpinum
+1342,Dph.t,Diphasiastrum tristachyum
+652,Dph.t-t,Diphasiastrum tristachyum-type
+2264,Dph.ud,Diphasiastrum undiff.
+2662,Dph-t,Diphasiastrum-type
+1347,Dpl.s,Diplazium sibiricum
+2062,Dpu,Diplusodon
+1340,Dipae,Dipsacaceae
+1391,Dipae.ud,Dipsacaceae undiff.
+1341,Dip,Dipsacus
+1671,Dis-t,Discaria-type
+2870,disturb,Disturbance indicators
+443,Dod,Dodecatheon
+1165,Dod-t,Dodecatheon-type
+80,Don,Dodonaea
+2433,Don.v,Dodonaea viscosa
+3312,Dlm,Dolicholobium
+3237,Dol,Doliocarpus
+2437,Dom,Dombeya
+1637,Dot,Donatia
+1048,Dot.f,Donatia fascicularis
+1638,Dotae,Donatiaceae
+1726,Dor,Dorstenia
+2671,Dug,Douglasia
+2265,Drb,Draba
+2370,Drc,Dracaena
+2369,Drc.s,Dracaena steudneri
+805,Dra-t,Dracocephalum-type
+3361,Dpt,Drapetes
+1019,Dri,Drimys
+1774,Dri.b,Drimys brasiliensis
+1031,Dri.w,Drimys winteri
+81,Dro,Drosera
+2902,Dro.i,Drosera intermedia
+2901,Dro.r,Drosera rotundifolia
+612,Dro.r-t,Drosera rotundifolia-type
+2266,Droae,Droseraceae
+2869,dryscrub,Dry forest trees and shrubs
+444,Dry,Dryas
+1110,Dry.i,Dryas integrifolia
+82,Dry-t,Dryas-type
+1057,,Drymis winteri
+1608,Drpae,Dryopteridaceae
+613,Drp,Dryopteris
+2673,Drp.cm,Dryopteris campyloptera
+956,Drp.ca,Dryopteris carthusiana
+834,Drp.ca-t,Dryopteris carthusiana-type
+2579,Dr.cf.fm,Dryopteris cf. D. filix-mas
+2578,Dr.cf.fr,Dryopteris cf. D. fragrans
+2580,Drp.cf.g,Dryopteris cf. D. goldiana
+953,Drp.cr,Dryopteris cristata
+3400,Drp.di,Dryopteris dilatata
+3401,Drp.fm,Dryopteris filix-mas
+1345,Drp.fm-t,Dryopteris filix-mas-type
+2267,Drp.fr,Dryopteris fragrans
+3647,Drp.fr-t,Dryopteris fragrans-type
+954,Drp.go,Dryopteris goldiana
+955,Drp.ma,Dryopteris marginalis
+2683,,Dryopteris oreopteris
+1426,,Dryopteris spinulosa
+503,,Dryopteris spinulosa-type
+1371,,Dryopteris thelypterioides
+614,,Dryopteris thelypteris
+2268,Drp.ud,Dryopteris undiff.
+83,Drp-t,Dryopteris-type
+895,Drp-t.ud,Dryopteris-type undiff.
+2244,,Duschekia fruticosa
+3313,Dsx,Dysoxylum
+2352,Ebeae,Ebenaceae
+1776,Ecn,Echinodorus
+1308,Ech,Echinops
+2828,Ecm,Echium
+2829,,Echium lycopsis
+2827,Ecm.l,Echium plantagineum
+3465,Ecm.v,Echium vulgare
+1834,Eic,Eichhornia
+3541,Eic.c,Eichhornia crassipes
+2363,Eke,Ekebergia
+85,Elaae,Elaeagnaceae
+907,Elaae.ud,Elaeagnaceae undiff.
+84,Ela,Elaeagnus
+615,Ela.c,Elaeagnus commutata
+365,El/Sh.a,Elaeagnus/Shepherdia argentea
+1601,Eleae,Elaeocarpaceae
+2152,Eleae.ud,Elaeocarpaceae undiff.
+2758,Ele,Elaeocarpus
+2921,Elnae,Elatinaceae
+2919,Eln,Elatine
+2920,Eln-t,Elatine-type
+3314,Ett,Elattostachys
+3520,Elo,Eleocharis
+134,Ely,Elymus
+616,Ely-t,Elymus-type
+2097,Elt,Elytropus
+3315,Ebl,Embelia
+1018,Emb,Embothrium
+1041,Emb.c,Embothrium coccineum
+86,Emp,Empetrum
+1026,Emp-t,Empetrum-type
+1304,Enc,Encalypta
+3203,Ece-t,Encelia-type
+3316,End,Endospermum
+3640,Eng,Engelhardtia
+3642,Eng/Alf,Engelhardtia/Alfaroa
+2367,Etd,Entada
+2711,Epcae,Epacridaceae
+2830,Epcae.ud,Epacridaceae undiff.
+2832,Epc,Epacris
+2831,Epc.s,Epacris serpyllifolia
+2710,Epc-t,Epacris-type
+817,Eph.b.f,Ephedra (branched folds)
+816,Eph.s.f,Ephedra (simple folds)
+3051,Eph.cf.w,Ephedra cf. E. tweediana
+3421,Eph.di,Ephedra distachya
+3572,Eph.di-t,Ephedra distachya-type
+3691,Eph.fo-t,Ephedra foeminea-type
+3422,Eph.fr,Ephedra fragilis
+3692,,Ephedra fragilis subsp. campylopoda-type
+3578,Eph.fr-t,Ephedra fragilis-type
+1314,Eph.mo,Ephedra monosperma
+368,Eph.ne-t,Ephedra nevadensis-type
+367,Eph.to-t,Ephedra torreyana-type
+89,Eph.tr-t,Ephedra trifurca-type
+87,Eph.ud,Ephedra undiff.
+88,Eph.vi-t,Ephedra viridis-type
+90,Epi,Epilobium
+1095,Epi.a,Epilobium angustifolium
+618,Epi.g-t,Epilobium glandulosum-type
+2251,Epi.l,Epilobium latifolium
+2253,Epi.ud,Epilobium undiff.
+2196,Epi-t,Epilobium-type
+3444,Epp,Epipactis
+91,Equ,Equisetum
+3717,Equ-t,Equisetum-type
+3719,Equ-t.ud,Equisetum-type undiff.
+2903,Erc,Erica
+3362,Ercae.2,Ericaceae 2
+909,Ercae.ud,Ericaceae undiff.
+722,Ercae-t,Ericaceae-type
+848,Erles,Ericales
+849,Erles.ud,Ericales undiff.
+1778,Eriae,Eriocaulaceae
+93,Eri,Eriocaulon
+1777,Er/Pa,Eriocaulon/Paepalanthus
+94,Erg,Eriogonum
+2968,Erg-t,Eriogonum-type
+3725,Erioph,Eriophorum
+2833,Eio,Eriostemon
+3180,Ero,Erodium
+1483,Ero.c,Erodium cicutarium
+3052,Ery,Eryngium
+1779,Ery-t,Eryngium-type
+1997,Eyt,Erythrina
+1999,Erxae,Erythroxylaceae
+1998,Erx,Erythroxylum
+1036,Esc,Escallonia
+1927,Esc.m,Escallonia myrtoides
+2541,Esc.ud,Escallonia undiff.
+2063,Ese,Esenbeckia
+1249,Euc,Eucalyptus
+2764,Euc.ps,Eucalyptus (exine psilate)
+2760,Euc1gr,Eucalyptus 1 (exine granular)
+2712,Euc13,Eucalyptus 13
+2713,Euc13+18,Eucalyptus 13+18 undiff.
+2714,Euc14,Eucalyptus 14
+2715,Euc18,Eucalyptus 18
+2761,Euc2ps,Eucalyptus 2 (exine psilate)
+2716,Euc25,Eucalyptus 25
+2717,Euc26,Eucalyptus 26
+2718,Euc27,Eucalyptus 27
+2762,Euc3gr,Eucalyptus 3 (exine granular)
+2719,Euc30,Eucalyptus 30
+2720,Euc30a,Eucalyptus 30a
+2763,Euc4gr,Eucalyptus 4 (exine granular)
+2721,Euc8,Eucalyptus 8
+1413,Euc.n.a,"Eucalyptus grains (added, number)"
+3154,Euc.n/gs,Eucalyptus spike (grains/g sample)
+96,EucCn/ml,"Eucalyptus suspension (concentration, grains/ml)"
+101,Euc.s.ml,"Eucalyptus suspension (volume added, ml)"
+99,Euc.ta.g,"Eucalyptus tablets (added, g)"
+100,Euc.ta.n,"Eucalyptus tablets (added, number)"
+97,EucCn/g,"Eucalyptus tablets (concentration, grains/g)"
+98,EucCn/t,"Eucalyptus tablets (concentration, grains/tablet)"
+2866,Euc-t,Eucalyptus-type
+2351,Ecl,Euclea
+1662,Ecr,Eucryphia
+1664,,Eucryphia/Caldcluvia
+1039,Eu/Ca.p,Eucryphia/Caldcluvia paniculata
+1663,Euyae,Eucryphiaceae
+1665,Eca/Cua,Eucryphiaceae/Cunoniaceae
+3189,Ecp-t,Eucrypta-type
+102,Eug,Eugenia
+1133,Eug-t,Eugenia-type
+619,Egl,Euglypha
+3317,Eud,Euodia
+103,Euo,Euonymus
+1571,Ept,Eupatorium
+1234,Ept.p,Eupatorium perfoliatum
+823,Ept-t,Eupatorium-type
+104,Eup,Euphorbia
+1862,Eup.cf.p,Euphorbia cf. E. papillosa
+3053,Eup.pu,Euphorbia cf. E. pulchella
+814,Eup.Ch,Euphorbia subg. Chamaesyce
+3621,Eup.Ch-t,Euphorbia subg. Chamaesyce-type
+3054,Eup.ud,Euphorbia undiff.
+694,Eupae,Euphorbiaceae
+2542,Eupae.ud,Euphorbiaceae undiff.
+2002,Eupae-tr,Euphorbiaceae-type (tricolporate reticulate)
+2006,Eup-trud,Euphorbiaceae-type (tricolporate reticulate) undiff.
+1266,Eup-t,Euphorbia-type
+1273,Eup-t.ud,Euphorbia-type undiff.
+2759,Epr,Euphrasia
+3100,Epl,Euplassa
+3022,Eut-t,Euterpe-type
+2562,Evo,Evolvulus
+2722,Exo,Exocarpos
+3001,Fabae.po,Fabaceae (polyad)
+2064,Fabae.re,Fabaceae (reticulate)
+2065,Fabae.st,Fabaceae (striate)
+3055,Fabae.I,Fabaceae (type I)
+3056,Fabae.II,Fabaceae (type II)
+3101,Fab.III,Fabaceae (type III)
+3102,Fabae.IV,Fabaceae (type IV)
+3103,Fabae.V,Fabaceae (type V)
+2159,cf.Mll,Fabaceae cf. Melilotus
+2219,cf.Mll.o,Fabaceae cf. Melilotus officinalis
+2220,cf.Trf,Fabaceae cf. Trifolium
+2772,Fabae.he,Fabaceae herbs
+2773,Fabae.sh,Fabaceae shrubs
+1908,,Fabaceae subf. Caesalpinioideae
+1907,,Fabaceae subf. Mimosoideae
+1909,,Fabaceae subf. Papilionoideae
+157,Fabae.ud,Fabaceae undiff.
+1881,Fabes,Fabales
+2137,Fabes.ud,Fabales undiff.
+1689,Fbi,Fabiana
+328,Fagae,Fagaceae
+106,Fgp,Fagopyrum
+1324,Fgp.e,Fagopyrum esculentum
+1365,,Fagopyrum sagittatum
+1323,Fgp.t,Fagopyrum tataricum
+1322,Fgp.ud,Fagopyrum undiff.
+3318,Fgr,Fagraea
+107,Fag,Fagus
+2663,Fag.o,Fagus orientalis
+1696,Fag.n.a,Fagus spike (number added to sample)
+1697,Fag.spik,Fagus spike (number counted)
+3168,FagCn/ml,"Fagus suspension (concentration, grains/ml)"
+3169,Fag.s.ml,"Fagus suspension (volume added, ml)"
+1320,Fag.s,Fagus sylvatica
+1070,Fa/Ny,Fagus/Nyssa
+3432,Fal.c,Fallopia convolvulus
+1491,Fec.pel,Fecal pellets
+3153,fsp.n/gs,Fern-spore spike (grains/g sample)
+3152,fsp,Fern-spore spike (number counted)
+1650,fsp.ta.n,"Fern-spore tablets (added, number)"
+1649,fspCn/t,"Fern-spore tablets (concentration, grains/tablet)"
+1727,Fic,Ficus
+3531,Fic.a,Ficus aurea
+2891,,Filicopsida
+3622,Fil.r,Filipendula rubra
+3521,Fim,Fimbristylis
+2118,fsand%cl,Fine sand (percent clastics)
+2119,fsilt%cl,Fine silt (percent clastics)
+1525,fsilt%im,Fine silt (percent mass after LOI)
+2103,Ftz.c,Fitzroya cupressoides
+1639,Ftz.c-t,Fitzroya cupressoides-type
+1655,,Fitzroya-type
+2511,Flb,Flabellaria
+2512,Flb.p,Flabellaria paniculata
+1604,Flaae,Flacourtiaceae
+2489,,Fleurya aestuans
+3183,fly.ash,Fly ash
+620,Foram,Foraminifera
+109,For,Forestiera
+1835,Frs,Forsteronia
+1584,Fou,Fouquieria
+3192,Fou.c,Fouquieria columnaris
+3191,Fou.s,Fouquieria splendens
+2945,Frg,Fragaria
+1096,Frg-t,Fragaria-type
+2925,Fng,Frangula
+2900,,Frangula alnus
+2622,,Franseria-type
+369,Fra,Fraxinus
+110,Fra.c4,Fraxinus (tetracolpate)
+111,Fra.c3,Fraxinus (tricolpate)
+1102,Fra.am,Fraxinus americana
+371,Fra.am-t,Fraxinus americana-type
+1527,Fra.an,Fraxinus anomala
+3656,Fra.cf.c,Fraxinus cf. F. caroliniana
+1504,Fra.cf.n,Fraxinus cf. F. nigra
+3579,Fra.ex,Fraxinus excelsior
+1465,Fra.la,Fraxinus latifolia
+975,Fra.la-t,Fraxinus latifolia-type
+1082,Fra.ni,Fraxinus nigra
+3580,Fra.or,Fraxinus ornus
+1083,Fra.pe,Fraxinus pennsylvanica
+961,Fr.p/a-t,Fraxinus pennsylvanica/F. americana-type
+960,Fr.q/n-t,Fraxinus quadrangulata/F. nigra-type
+370,Fra.qu-t,Fraxinus quadrangulata-type
+114,Fra.ud,Fraxinus undiff.
+1528,Fra.ve-t,Fraxinus velutina-type
+1283,Fr/Pl,Fraxinus/Platanus
+3319,Fry,Freycinetia
+3209,Fri,Fritillaria
+3718,Fri.ca,Fritillaria camschatcensis
+2550,Fro-t,Froelichia-type
+1051,Fuc,Fuchsia
+1836,Fuc.r,Fuchsia regia
+3522,Fui,Fuirena
+2262,Fumae,Fumariaceae
+535,Fu:,Fungus
+1474,Fu:dung,Fungus (dung)
+115,Fu:ud,Fungus undiff.
+1640,Gai,Gaimardia
+3446,Gap,Galeopsis
+3447,Gap-t,Galeopsis-type
+3448,Gap-t.ud,Galeopsis-type undiff.
+2418,Gln,Galiniera
+2419,Gln.c,Galiniera coffeoides
+116,Gal,Galium
+1416,Gal-t,Galium-type
+2000,Gll,Gallesia
+2386,Grc,Garcinia
+2387,Grc.v,Garcinia volkensii
+866,Gar,Garrya
+2969,Gar-t,Garrya-type
+117,Gau,Gaultheria
+621,Gau.h,Gaultheria hispidula
+2158,Gau.p,Gaultheria procumbens
+1780,Gau.u,Gaultheria ulei
+446,Gur,Gaura
+118,Gay,Gaylussacia
+622,Gay.b,Gaylussacia baccata
+2193,Fu:Gel,Gelasinospora
+3321,Gno,Geniostoma
+3238,Gni,Genipa
+3449,Gei-t,Genista-type
+448,Gen,Gentiana
+450,Gen.an,Gentiana andrewsii
+447,Gen.an-t,Gentiana andrewsii-type
+3148,Gen.do,Gentiana douglasiana
+2269,Gen.ni,Gentiana nivalis
+2534,Gen.ni-t,Gentiana nivalis-type
+2270,Gen.pn,Gentiana pneumonanthe
+2536,Gen.pn-t,Gentiana pneumonanthe-type
+1400,Gen.pu-t,Gentiana puberulenta-type
+2533,Gen.ud,Gentiana undiff.
+2271,Gen.ve,Gentiana verna
+2535,Gen.ve-t,Gentiana verna-type
+119,Genae,Gentianaceae
+3625,Genae.ud,Gentianaceae undiff.
+2557,Genae-t,Gentianaceae-type
+2561,Gen-t,Gentiana-type
+1024,Gnt,Gentianella
+1178,Gerae,Geraniaceae
+1760,Gerae.ud,Geraniaceae undiff.
+120,Ger,Geranium
+1612,Gesae,Gesneriaceae
+2160,Geu,Geum
+121,Geu-t,Geum-type
+868,Gil,Gilia
+526,Gil-t,Gilia-type
+3417,Glm,Glaucium
+623,Gla.m,Glaux maritima
+122,Gle,Gleditsia
+2563,Glc,Gleichenia
+2564,Glcae,Gleicheniaceae
+3322,Glo,Glochidion
+2134,Gneta,Gnetophyta
+2765,Gph,Gompholobium
+449,Gom,Gomphrena
+3057,Go/Pf,Gomphrena/Pfaffia
+123,Gom-t,Gomphrena-type
+2272,Gon,Goniolimon
+2723,Gooae,Goodeniaceae
+124,Gor,Gordonia
+1839,Gor.f,Gordonia fruticosa
+624,,Gramineae
+1614,Graae,Grammitidaceae
+1613,Gra,Grammitis
+1901,Gra-t,Grammitis-type
+2836,Grt,Gratiola
+2724,Gre,Grevillea
+1037,Gri,Griselinia
+1781,Gri.cf.r,Griselinia cf. G. ruscifolia
+1692,Gri-t,Griselinia-type
+2273,,Grossularia
+2274,Groae,Grossulariaceae
+2275,Groae.ud,Grossulariaceae undiff.
+2171,Gua,Guapira
+3239,Grr,Guarea
+2008,Guz,Guazuma
+1728,Guz-t,Guazuma-type
+2066,Gue,Guettarda
+3323,Gui,Guioa
+1023,Gun,Gunnera
+1782,Gun.m,Gunnera manicata
+1783,Gunae,Gunneraceae
+2195,,Guttiferae
+2084,Gyn,Gymnanthes
+504,Gym,Gymnocarpium
+2581,Gym.r,Gymnocarpium robertianum
+1864,,Gymnogramma-type
+2076,Gyp,Gymnopodium
+3423,Gps-t,Gypsophila-type
+2121,gyps%cl,Gypsum (percent clastics)
+2755,Gyrae,Gyrostemonaceae
+2410,Hag,Hagenia
+2411,Hag.a,Hagenia abyssinica
+2522,Hag.cf.a,Hagenia cf. H. abyssinica
+2725,Hak,Hakea
+2420,Hll,Hallea
+2421,Hll.r,Hallea rubrostipulata
+126,Halae,Haloragaceae
+911,Halae.ud,Haloragaceae undiff.
+2726,Hal,Haloragis
+2766,Hlo,Haloragodendron
+3125,Hamae,Hamamelidaceae
+1198,Har.a,Harbrotrocha angusticollis
+2837,Hrd,Hardenbergia
+2359,Hru,Harungana
+2085,Has,Hasseltia
+2684,Hde,Hedera
+2277,Hdw,Hedwigia
+2767,Hdc,Hedycarya
+1730,Hdm,Hedyosmum
+1837,Hdm.b,Hedyosmum brasiliense
+453,Hdy,Hedyotis
+451,Hed,Hedysarum
+1166,Hed-t,Hedysarum-type
+1260,Hli,Helianthemum
+1511,Hla-t,Helianthus-type
+452,Hel,Heliotropium
+3581,Hle,Helleborus
+3106,Hmi,Hemionitis
+3104,Hmi.I,Hemionitis (type I)
+3105,Hmi.II,Hemionitis (type II)
+1863,Hmi-t,Hemionitis-type
+1956,Hem,Hemitelia
+3466,Hpa,Hepatica
+1167,Hepae,Hepaticae
+3686,Hepae.ud,Hepaticae undiff.
+2537,Her,Heracleum
+127,herbs.ud,Herbs undiff.
+3324,Hrt,Heritiera
+1246,Het,Heteranthera
+2570,,Heteranthera dubia
+2009,Hte,Heteropterys
+871,Heu,Heuchera
+1097,Heu-t,Heuchera-type
+2727,Hbb,Hibbertia
+1732,Hib,Hibiscus
+1928,Hie,Hieronyma
+1838,Hpe,Hippeastrum
+3555,Hppae,Hippocastanaceae
+3574,Hpc,Hippocratea
+3575,Hpcae,Hippocrateaceae
+2677,Hpp,Hippophae
+1306,Hpp.r,Hippophae rhamnoides
+129,Hip.v,Hippuris vulgaris
+3240,Hra,Hiraea
+2067,Hir,Hirtella
+2728,His,Histiopteris
+3193,Hof,Hoffmannseggia
+1250,Hol,Holodiscus
+3325,Hom,Homalium
+3705,Hor-t,Hordeum-type
+782,,Houstonia
+2729,Hov,Hovea
+1261,Hud,Hudsonia
+3241,Hmr,Humiria
+3242,Hmrae,Humiriaceae
+425,Hum,Humulus
+1335,Hum.l,Humulus lupulus
+806,,Humulus/Cannabis
+352,Hu/Ca.s,Humulus/Cannabis sativa
+130,Hum-t,Humulus-type
+2642,Hup,Huperzia
+2278,,Huperzia arctica
+173,Hup.l,Huperzia lucidula
+645,Hup.l-t,Huperzia lucidula-type
+175,Hup.s,Huperzia selago
+3646,Hup.s/l,Huperzia selago/H. lucidula
+653,Hup.s-t,Huperzia selago-type
+2641,Hup.ud,Huperzia undiff.
+1192,Hya,Hyalosphenia
+625,Hya.e,Hyalosphenia elegans
+1193,Hya.o,Hyalosphenia ovalis
+626,Hya.p,Hyalosphenia papilio
+1194,Hya.s,Hyalosphenia subflava
+2769,Hyb,Hybanthus
+1045,Hdr,Hydrangea
+2279,Hytae,Hydrocharitaceae
+514,Hyc,Hydrocotyle
+3504,Hyc.u,Hydrocotyle umbellata
+881,Hyc-t,Hydrocotyle-type
+1585,Hydae,Hydrophyllaceae
+3190,Hydae.ud,Hydrophyllaceae undiff.
+2970,Hydae-t,Hydrophyllaceae-type
+131,Hyd,Hydrophyllum
+1440,Hyd.cf.v,Hydrophyllum cf. H. virginianum
+2568,Hyd.v,Hydrophyllum virginianum
+1784,Hyr,Hyeronima
+1733,Hyg,Hygrophila-type
+2360,Hmn,Hymenocardia
+3667,Hme,Hymenoclea
+2422,Hmd,Hymenodictyon
+2423,Hmd.f,Hymenodictyon floribundum
+1052,Hymae,Hymenophyllaceae
+1615,Hym,Hymenophyllum
+3023,Hym-t,Hymenophyllum-type
+132,Hyp,Hypericum
+3582,Hyp.p-t,Hypericum perforatum-type
+1596,Hyp-t,Hypericum-type
+2523,Hph,Hyphaene
+2524,Hph.cf.t,Hyphaene cf. H. thebaica
+2441,Hpo,Hypoestes
+2838,Hpl,Hypolepis
+1059,Hpl-t,Hypolepis-type
+454,Hyx,Hypoxis
+1564,Hyx.h,Hypoxis hirsuta
+3194,Hpt,Hyptis
+3058,Hpt-t,Hyptis-type
+133,hystr,Hystrichospherids
+1403,,Hystrix
+2073,Icaae,Icacinaceae
+135,Ilx,Ilex
+2372,Ilx.m,Ilex mitis
+672,Il/Ne,Ilex/Nemopanthus
+1225,Il/Ne.ud,Ilex/Nemopanthus undiff.
+940,Ilx-t,Ilex-type
+3122,Illae,Illiciaceae
+856,Ill,Illicium
+627,Img,Impagidinium
+136,Imp,Impatiens
+998,Imp.c,Impatiens capensis
+1576,Imp.n,Impatiens noli-tangere
+35,ind.br,Indeterminable (broken)
+3413,,Indeterminable (concealed)
+3670,ind.cohi,Indeterminable (corroded or hidden)
+66,ind.co,Indeterminable (corroded)
+1568,ind.crbr,Indeterminable (crumpled or broken)
+71,ind.cr,Indeterminable (crumpled)
+1520,ind.deco,Indeterminable (degraded or corroded)
+2963,ind.deP3,Indeterminable (degraded triporate)
+77,ind.de,Indeterminable (degraded)
+3414,,Indeterminable (deteriorated)
+128,ind.hi,Indeterminable (hidden)
+2650,ind.im,Indeterminable (immature)
+905,ind.ud,Indeterminable undiff.
+2464,Ipo,Ipomoea
+3243,Ira,Iriartea
+1734,Ira-t,Iriartea-type
+138,Iriae,Iridaceae
+1785,Iriae.I,Iridaceae (type I)
+1786,Iriae.II,Iridaceae (type II)
+1932,Iri,Iris
+139,Iso,Iso_tes
+1929,Iso<20,Iso_tes (<20 _m)
+1930,Iso>20,Iso_tes (>20 _m)
+2926,Iso.A,Iso_tes (type A)
+2197,Iso.ec,Iso_tes echinospora
+2613,Iso.la,Iso_tes lacustris
+2614,,Iso_tes macrospora
+2198,,Iso_tes muricata
+1061,Iso.sa,Iso_tes savatieri
+3706,Iso.se,Iso_tes setacea
+2942,Iso.ud,Iso_tes undiff.
+2199,,Isoetes
+2442,Isg,Isoglossa
+2770,Ism,Isotoma
+140,Ite,Itea
+963,Iva,Iva
+378,Iva.a,Iva annua
+62,Iva.a-t,Iva annua-type
+455,,Iva ciliata
+141,,Iva ciliata-type
+456,Iva.f-t,Iva frutescens-type
+142,Iva.ud,Iva undiff.
+457,Iva.x,Iva xanthifolia
+143,Iva.x-t,Iva xanthifolia-type
+1509,Iva-t,Iva-type
+2010,Ixo,Ixora
+2011,Jac,Jacaranda
+1904,Jam,Jamesonia
+1073,Jas,Jasione
+2518,Jsm,Jasminum
+3195,Jat,Jatropha
+1710,Jugae,Juglandaceae
+372,Jug,Juglans
+3135,Jug.a,Juglans australis
+1441,Jug.cf.c,Juglans cf. J. cinerea
+1442,Jug.cf.n,Juglans cf. J. nigra
+801,Jug.c-t,Juglans cinerea-type
+145,Jug.n,Juglans nigra
+802,Jug.n-t,Juglans nigra-type
+2664,Jug.r,Juglans regia
+146,Jug.ud,Juglans undiff.
+2053,,Julocroton
+147,Jncae,Juncaceae
+2280,Jncae.ud,Juncaceae undiff.
+2126,Jcgae,Juncaginaceae
+1098,Jnc,Juncus
+1787,Jng-t,Jungia-type
+983,Jun,Juniperus
+630,Jun.h/v,Juniperus horizontalis/J. virginiana-type
+364,Ju/Th,Juniperus/Thuja
+363,Jun-t,Juniperus-type
+2013,Jus,Justicia
+3196,Jus.c,Justicia californica
+2443,Jus.s,Justicia striata
+1586,Kll,Kallstroemia
+148,Kal,Kalmia
+2685,Kna,Knautia
+1326,Kna.a,Knautia arvensis
+459,Koc,Kochia
+2980,Koc.spik,Kochia spike (number counted)
+3217,KocCn/ml,"Kochia suspension (concentration, grains/ml)"
+3216,Koc.s.ml,"Kochia suspension (volume added, ml)"
+458,Koc-t,Kochia-type
+2922,,Koenigia
+149,Koe.i,Koenigia islandica
+2501,Kot,Kotschya
+3197,Kra,Krameria
+2839,Knz,Kunzea
+2771,Knz-t,Kunzea-type
+461,,Labiatae
+462,,Labiatae undiff.
+2531,Lab.no,Laboratory number
+2014,Lca,Lacistema
+2015,Lcaae,Lacistemataceae
+3244,Lcm,Lacmellea
+1512,Lac-t,Lactuca-type
+1169,Lgo,Lagotis
+2669,Lgo.g,Lagotis glauca
+151,Lag,Laguncularia
+3245,Lma,Lamanonia
+1788,Lma.s,Lamanonia cf. L. speciosa
+460,Lamae,Lamiaceae
+1263,L.cf.Sta,Lamiaceae cf. Stachys
+150,Lamae.ud,Lamiaceae undiff.
+3450,Lam-t,Lamium-type
+2347,Lan,Lannea
+2016,,Laplacea
+2142,,Laplacea fruticosa
+465,Lap,Laportea
+2488,Lap.a,Laportea aestuans
+152,Lap-t,Laportea-type
+153,Lar,Larix
+1573,,Larix dahurica
+3693,Lar.d,Larix decidua
+1296,Lar.g,Larix gmelinii
+3215,Lar.s,Larix sibirica
+373,La/Ps,Larix/Pseudotsuga
+1484,Lrr,Larrea
+2127,Lat-t,Lathyrus-type
+2640,Lurae,Lauraceae
+1042,Lau,Laurelia
+2473,Lrm,Laurembergia
+2474,Lrm.t,Laurembergia tetrandra
+2678,Lrc,Laurocerasus
+154,Lec,Lechea
+1977,Lcyae,Lecythidaceae
+1660,,Ledocarpaceae
+155,Led,Ledum
+156,Le/Ch.c,Ledum/Chamaedaphne calyculata
+882,Led-t,Ledum-type
+3326,Lee,Leea
+632,,Leguminosae
+158,Lei.f,Leitneria floridana
+515,Lem,Lemna
+3528,Lem.v,Lemna valdiviana
+159,Lemae,Lemnaceae
+2017,,Lentibularia
+2018,Lenae,Lentibulariaceae
+1619,,Lepidoceras
+1616,Lpd.k,Lepidoceras kingii
+3707,,Lepidotis inundata
+2774,Lpt,Leptospermum
+2875,Le/Ca,Leptospermum/Callistemon
+2876,Le/Ca.ud,Leptospermum/Callistemon undiff.
+2670,Lsq,Lesquerella
+2475,Leu,Leucas
+2878,Luc,Leucopogon
+2775,Luc-t,Leucopogon-type
+2183,Lew,Lewisia
+2021,Lic,Licania
+412,,Liguliflorae
+3160,Lgs,Ligusticum
+858,Lig,Ligustrum
+341,Lilae,Liliaceae
+2972,Lilae.Am,Liliaceae subf. Amaryllidoideae
+2840,Lilae.As,Liliaceae subf. Asphodeloideae
+161,Lilae.ud,Liliaceae undiff.
+1931,Lilae-t,Liliaceae-type
+2131,Lilda,Liliopsida
+2335,Lilda.C1,Liliopsida (monocolpate)
+2130,Lilda.ud,Liliopsida undiff.
+1401,Lil,Lilium
+466,Lil.p-t,Lilium philadelphicum-type
+3327,Lmm,Limnanthemum
+1427,Lim,Limonium
+777,Lim.c,Limonium carolinianum
+1518,Lim.cf.l,Limonium cf. L. limbatum
+633,,Limonium nashii
+2276,Linae,Linaceae
+1589,Lna,Linanthus
+2209,Lnr,Linaria
+2976,Lnd,Lindsaea
+634,Lgu.m,Lingulodinium machaerophorum
+635,Lnn.b,Linnaea borealis
+636,Lin,Linum
+162,Liq,Liquidambar
+1565,Liq.s,Liquidambar styraciflua
+163,Lir,Liriodendron
+1566,Lir.t,Liriodendron tulipifera
+1590,Lth,Lithocarpus
+2623,Lth-t,Lithocarpus-type
+3198,Lts-t,Lithospermum-type
+2022,Ltr,Lithraea
+3059,Li/Sc,Lithraea/Schinus
+2101,Lit,Littorella
+783,,Littorella americana
+637,Lit.u,Littorella uniflora
+2281,Llo,Lloydia
+2128,Loaae,Loasaceae
+2476,Lob,Lobelia
+638,Lob-t,Lobelia-type
+1611,Logae,Loganiaceae
+639,Loi.p,Loiseleuria procumbens
+2776,Lmn,Lomandra
+2730,Lmn.e-t,Lomandra effusa-type
+2798,Lmn.f,Lomandra filiformis
+2799,Lmn.g,Lomandra glauca
+2731,Lmn.l-t,Lomandra longifolia-type
+1666,Lom,Lomatia
+1040,Lo/Ge,Lomatia/Gevuina
+2733,Lom-t,Lomatia-type
+3626,Lmt,Lomatogonium
+2141,Lng,Longetia
+164,Lon,Lonicera
+2618,Lon.al-t,Lonicera albiflora-type
+598,Lon.cr,Lonicera caerulea
+642,Lon.cn-t,Lonicera canadensis-type
+641,Lon.in,Lonicera involucrata
+643,,Lonicera villosa
+3484,Lon/Sym,Lonicera/Symphoricarpos
+3708,Lon-t,Lonicera-type
+1620,,Lophosoria
+1617,Lop.q,Lophosoria quadripinnata
+1618,Lopae,Lophosoriaceae
+776,Lorae,Loranthaceae
+1621,Lorae.ud,Loranthaceae undiff.
+3583,Lor,Loranthus
+2904,Lot,Lotus
+2129,Lot-t,Lotus-type
+2873,lowld.ud,Lowland forest trees undiff.
+2086,Loz,Lozanella
+644,Lud,Ludwigia
+2551,Lud-t,Ludwigia-type
+2172,Lue,Luehea
+1735,Lue-t,Luehea-type
+1066,Lup,Lupinus
+3695,Lyn,Lychnis
+3694,Lyn-t,Lychnis-type
+1587,Lym,Lycium
+1180,Lycae,Lycopodiaceae
+1789,Lycae.fo,Lycopodiaceae (foveolate)
+1942,Lycae.re,Lycopodiaceae (reticulate)
+2981,Lycae.ru,Lycopodiaceae (rugulate)
+2223,cf.Dph.c,Lycopodiaceae cf. Diphasiastrum complanatum
+2239,Lyc.cf.a,Lycopodiaceae cf. Lycopodium annotinum
+2222,cf.Lyc.c,Lycopodiaceae cf. Lycopodium clavatum
+2803,cf.Psl.c,Lycopodiaceae cf. Pseudolycopodiella carolinianum
+166,Lycae.ud,Lycopodiaceae undiff.
+1179,Lyl,Lycopodiella
+1865,Lyl.a,Lycopodiella alopecuroides
+3024,Lyl.a-t,Lycopodiella alopecuroides-type
+172,Lyl.i,Lycopodiella inundata
+3648,Lyl.i-t,Lycopodiella inundata-type
+1866,,Lycopodium alopecuroides
+1372,,Lycopodium alpinum
+1373,,Lycopodium alpinum-type
+650,Lyc.a-t,Lycopodium annotinum-type
+1374,,Lycopodium carolinianum
+170,Lyc.cl,Lycopodium clavatum
+1125,Lyc.cl-t,Lycopodium clavatum-type
+3684,Lyc.c-tu,Lycopodium clavatum-type undiff.
+1375,,Lycopodium complanatum
+1376,,Lycopodium complanatum-type
+3107,Lyc.cu-t,Lycopodium curvatum-type
+1182,Lyc.d,Lycopodium dendroideum
+2282,,Lycopodium dubium
+2841,Lyc.f,Lycopodium fastigatum
+2734,Lyc.f-t,Lycopodium fastigatum-type
+1677,,Lycopodium fuegianum
+1377,,Lycopodium inundatum
+2283,Lyc.j,Lycopodium juniperoideum
+1378,,Lycopodium lucidulum
+1379,,Lycopodium lucidulum-type
+1055,Lyc.m,Lycopodium magellanicum
+174,Lyc.o,Lycopodium obscurum
+1054,Lyc.p,Lycopodium paniculatum
+2538,,Lycopodium pungens
+1946,Lyc.r,Lycopodium reticulatum
+1380,,Lycopodium sabinaefolium-type
+3681,,Lycopodium sect. Clavatae
+3682,,Lycopodium sect. Selago
+1056,,Lycopodium selago
+1381,,Lycopodium selago-type
+1382,,Lycopodium sitchense
+3151,Lyc.n/gs,Lycopodium spike (grains/g sample)
+2946,Lyc.n.a,Lycopodium spike (number added to sample)
+932,Lyc.spik,Lycopodium spike (number counted)
+2324,LycCn/ml,"Lycopodium suspension (concentration, grains/ml)"
+2325,Lyc.s.ml,"Lycopodium suspension (volume added, ml)"
+931,Lyc.ta.n,"Lycopodium tablets (added, number)"
+930,LycCn/t,"Lycopodium tablets (concentration, grains/tablet)"
+1367,,Lycopodium tristachyum
+1385,,Lycopodium tristachyum-type
+505,Lyc-t,Lycopodium-type
+654,Lyp,Lycopus
+176,Lyp-t,Lycopus-type
+1842,Lygae,Lygodiaceae
+3328,Lyg,Lygodium
+1841,Lyg.v,Lygodium volubile
+818,Lyo,Lyonia
+1406,Lch,Lysichiton
+1466,Lch.a,Lysichiton americanum
+1407,,Lysichitum
+539,Lys,Lysimachia
+2221,Lys.c-t,Lysimachia ciliata-type
+467,Lys.q-t,Lysimachia quadriflora-type
+468,Lys.t,Lysimachia thyrsiflora
+177,Lys.ud,Lysimachia undiff.
+3697,Lys.v,Lysimachia vulgaris
+3696,Lys.v-t,Lysimachia vulgaris-type
+1905,Lsi,Lysipomia
+1278,Lytae,Lythraceae
+1390,Lytae.ud,Lythraceae undiff.
+336,Lyt,Lythrum
+2567,Lyt.a,Lythrum alatum
+655,Lyt.s,Lythrum salicaria
+1350,Lyt.ud,Lythrum undiff.
+2023,Mab,Mabea
+2355,Mca,Macaranga
+3246,Mch/Dlb,Machaerium/Dalbergia
+376,Mac.p,Maclura pomifera
+178,Mac.p-t,Maclura pomifera-type
+377,,Maclura-type
+3247,Mcl,Macrolobium
+3199,Mcm-t,Macromeria-type
+2349,Mae,Maerua
+2398,Mas,Maesa
+2399,Mas.l,Maesa lanceolata
+179,Mag,Magnolia
+3657,Mag.v-t,Magnolia virginiana-type
+3395,Magae,Magnoliaceae
+2133,Magta,Magnoliophyta
+2095,Magta.ud,Magnoliophyta undiff.
+2132,Magda,Magnoliopsida
+2924,Magda.ud,Magnoliopsida undiff.
+1360,,Malaceae
+3329,Mls,Mallotus
+1720,Mlpae,Malpighiaceae
+2005,Mlpae.ud,Malpighiaceae undiff.
+546,Mal,Malva
+180,Malae,Malvaceae
+2336,Malae.Cp,Malvaceae (periporate)
+2003,Malae.ud,Malvaceae undiff.
+2024,Map,Maprounea
+1790,Mar.cf.v,Marattia cf. M. verschaffeltiana
+1791,Marae,Marattiaceae
+3025,Mrgae,Marcgraviaceae
+2466,Mgt,Margaritaria
+2467,Mgt.d,Margaritaria discoidea
+3248,Mrl,Marila
+3249,Mrp,Maripa
+2609,,Mariscus
+1792,Mta,Matayba
+3584,Mtc-t,Matricaria-type
+335,Mat,Matteuccia
+3143,Mat.s,Matteuccia struthiopteris
+506,Ma/Oc,Matteuccia/Onoclea sensibilis
+3585,Mth,Matthiola
+3250,Mau,Mauritia
+3026,Mau-t,Mauritia-type
+3027,Mtl-t,Mauritiella-type
+1622,May,Maytenus
+1043,May.b-t,Maytenus boaria-type
+1044,May.d-t,Maytenus disticha-type
+469,Med,Medicago
+1404,Med.s,Medicago sativa
+2124,mcsil%cl,Medium coarse silt (percent clastics)
+2122,mfgra%cl,Medium fine gravel (percent clastics)
+2123,mfsan%cl,Medium fine sand (percent clastics)
+1524,msilt%im,Medium silt (percent mass after LOI)
+2285,,Meesea
+2284,Mee,Meesia
+2777,Mlu,Melaleuca
+997,Mlm,Melampyrum
+846,Mlm-t,Melampyrum-type
+1531,Mld,Melandrium
+1701,Mlaae,Melastomataceae
+2364,Melae,Meliaceae
+3288,Melae.ud,Meliaceae undiff.
+779,Me/Sa,Meliaceae/Sapotaceae
+1228,Me/Sa.ud,Meliaceae/Sapotaceae undiff.
+2392,Mlnae,Melianthaceae
+3330,Mlc,Melicope
+181,Mll-t,Melilotus-type
+1793,Mli,Meliosma
+3251,Mli/Coc,Meliosma/Coccoloba
+2515,Mspae,Menispermaceae
+2286,Mnt,Mentha
+1000,Mnt.a,Mentha arvensis
+656,Mnt-t,Mentha-type
+3163,Menae,Menyanthaceae
+657,,Menyanthes
+182,Men.t,Menyanthes trifoliata
+3164,,Menyanthes trifoliata/Fauria crista-galli
+3162,Mn/Ne,Menyanthes trifoliata/Nephrophyllidium crista-galli
+2927,Mrc,Mercurialis
+2287,Mer,Mertensia
+2668,Mer-t,Mertensia-type
+2025,Met,Metrodorea
+3332,Mtx,Metroxylon
+3331,Mtx.v,Metroxylon vitiense
+1933,Mco,Miconia
+1906,Mco-t,Miconia-type
+2888,Mcs,Microsorum
+331,micCn/ml,"Microsphere suspension (concentration, number/ml)"
+325,mic.s.ml,"Microsphere suspension (volume added, ml)"
+324,mic,Microspheres (number counted)
+1591,Mcr,Microsteris
+3698,Fu:Mic,Microthyrium
+3509,Mik.s,Mikania scandens
+786,Mim,Mimosa
+3060,Mim.I,Mimosa (type I)
+1867,Mim.II,Mimosa (type II)
+1868,Mim.III,Mimosa (type III)
+1702,Mim.cf.b,Mimosa cf. M. biuncifera
+3061,Mim.cf.i,Mimosa cf. M. invisa
+1795,Mim.cf.s,Mimosa cf. M. scabrella
+1796,Mim.cf.t,Mimosa cf. M. taimbensis
+183,Mimae,Mimosaceae
+1736,Mimae.p,Mimosaceae (polyad)
+1737,Mimae.4,Mimosaceae (tetrad)
+3062,Mimae.I,Mimosaceae (type I)
+3063,Mimae.II,Mimosaceae (type II)
+2136,Mimae.ud,Mimosaceae undiff.
+2444,Mml,Mimulopsis
+1487,Mmu,Mimulus
+3485,Mmu.g,Mimulus guttatus
+2525,Mms,Mimusops
+1668,Misae,Misodendraceae
+1016,Mis,Misodendrum
+1567,Mit,Mitella
+2098,Mtr,Mitraria
+3530,,Mitreola
+660,Mon.u,Moneses uniflora
+2768,Mnmae,Monimiaceae
+2497,,Monocotyledoneae
+2498,,Monocotyledoneae undiff.
+2842,Mno,Monotoca
+661,Moo,Monotropa
+2597,Moo.u,Monotropa uniflora
+3252,Mns,Monstera
+2874,mont.ud,Montane forest trees undiff.
+2566,Mti,Montia
+2735,Mti-t,Montia-type
+2108,Mtt.a,Monttea aphylla
+185,Morae,Moraceae
+1910,Morae.P2,Moraceae (diporate)
+2026,Morae.P3,Moraceae (triporate)
+874,Morae.ud,Moraceae undiff.
+1869,Mrz.cf.d,Moritzia cf. M. dasiantha
+1874,Mrz.d,Moritzia dasiantha
+1738,Mtd,Mortoniodendron
+186,Mor,Morus
+1443,Mor.r,Morus rubra
+662,Mor.r-t,Morus rubra-type
+1507,Mor-t,Morus-type
+2778,Mue,Muehlenbeckia
+663,Mlt.m,Multispinula minuta
+664,Mlt.q,Multispinula quanta
+1244,Musci,Musci
+3499,Musci.A,Musci A
+1935,Mut,Mutisia
+2843,Mprae,Myoporaceae
+1673,,Myoschilos
+1672,Mys.o,Myoschilos oblonga
+2590,Myo,Myosotis
+665,Myo-t,Myosotis-type
+2394,Mri,Myrianthus
+2395,Mri.h,Myrianthus holstii
+383,Myr,Myrica
+3532,Myr.c,Myrica cerifera
+666,Myr.g,Myrica gale
+382,My/Co,Myrica/Comptonia peregrina
+381,Myrae,Myricaceae
+875,Myrae.ud,Myricaceae undiff.
+379,Myr-t,Myrica-type
+188,Myp,Myriophyllum
+2886,MypA,Myriophyllum A
+667,Myp.a,Myriophyllum alterniflorum
+1346,Myp.a-t,Myriophyllum alterniflorum-type
+2887,MypB,Myriophyllum B
+1396,,Myriophyllum exalbescens-type
+2844,Myp.p,Myriophyllum pedunculatum
+668,Myp.i,Myriophyllum sibiricum-type
+1310,Myp.s,Myriophyllum spicatum
+3586,Myp.s/v,Myriophyllum spicatum/M. verticillatum
+2337,Myp.s-t,Myriophyllum spicatum-type
+1211,Myp.ud,Myriophyllum undiff.
+1311,Myp.v,Myriophyllum verticillatum
+2224,Myp.v-t,Myriophyllum verticillatum-type
+3335,Mst,Myristica
+1758,Mstae,Myristicaceae
+2109,Myc,Myrocarpus
+2028,Myx-t,Myroxylon-type
+1897,Mrsae,Myrsinaceae
+2539,Mrsae.ud,Myrsinaceae undiff.
+254,Mrs,Myrsine
+883,Mytae,Myrtaceae
+2779,Mytae.sn,"Myrtaceae (syncolpate, exine non-patterned)"
+3367,Mytae.12,Myrtaceae 12
+3368,Mytae.14,Myrtaceae 14
+3369,Mytae.17,Myrtaceae 17
+2736,Mytae40,Myrtaceae 40
+2737,Mytae41,Myrtaceae 41
+2738,Mytae54,Myrtaceae 54
+2739,Mytae55,Myrtaceae 55
+2740,Mytae56a,Myrtaceae 56a
+380,Mytae.ud,Myrtaceae undiff.
+2166,,Myzodendron
+669,Naj,Najas
+1025,Nan,Nanodea
+2110,Nas,Nassauvia
+1632,Nas-t,Nassauvia-type
+2111,Nav,Navarretia
+1195,Neb,Nebela
+670,Nma.l,Nematospaeropsis labyrinthea
+189,Nem,Nemopanthus
+671,Nem.m,Nemopanthus mucronatus
+3336,Neo,Neonauclea
+2780,Npx,Neopaxia
+3064,Nph,Nephelea
+1843,,Nephelea setosa
+1674,Ner,Nertera
+2167,Ner-t,Nertera-type
+3587,Noa-t,Noaea-type
+1015,Not,Nothofagus
+1683,Not.a,Nothofagus antarctica
+2102,Not.a-t,Nothofagus antarctica-type
+3393,Not.b,Nothofagus betuloides
+3065,Not.cf.d,Nothofagus cf. N. dombeyi
+1685,Not.d,Nothofagus dombeyi
+1032,Not.d-t,Nothofagus dombeyi-type
+1684,Not.d-tu,Nothofagus dombeyi-type undiff.
+1033,Not.o-t,Nothofagus obliqua-type
+2162,Not.r-t,Nothofagus procera-type
+1686,Not.p,Nothofagus pumilio
+1690,Not.ud,Nothofagus undiff.
+3200,Ntl,Notholaena
+3478,Nup.p,Nuphar polysepala
+2362,Nu/Fi,Nuxia/Ficalhoa
+1699,Nycae,Nyctaginaceae
+192,Nym,Nymphaea
+3434,Nym.a,Nymphaea alba
+3533,Nym.o,Nymphaea odorata
+673,Nymae,Nymphaeaceae
+2611,Nymae.lh,Nymphaeaceae leaf-hair base
+191,Nymae.ud,Nymphaeaceae undiff.
+1245,Nmp,Nymphoides
+193,Nys,Nyssa
+2185,Nys.s-t,Nyssa sylvatica-type
+3254,Ochae,Ochnaceae
+2526,Oci,Ocimum
+3066,Oco-t,Ocotea-type
+470,Oen,Oenothera
+2508,Old,Oldenlandia
+2338,Ole,Olea
+2401,Ole.c,Olea capensis
+2402,Ole.e.a,Olea europea ssp. africana
+2339,Oleae,Oleaceae
+674,Oleae.ud,Oleaceae undiff.
+3201,Oln.t,Olneya tesota
+3337,Oma,Omalanthus
+445,Ongae,Onagraceae
+194,Ongae.ud,Onagraceae undiff.
+507,Ono.s,Onoclea sensibilis
+842,Onn-t,Ononis-type
+471,Ons,Onosmodium
+2999,Opq.min,Opaque mineral grains
+675,Ope.c,Operculodinium centrocarpum
+1207,Ophae,Ophioglossaceae
+2288,Ophae.ud,Ophioglossaceae undiff.
+508,Oph,Ophioglossum
+2341,Oph.cf.p,Ophioglossum cf. O. polyphyllum
+2225,Oph.cf.v,Ophioglossum cf. O. vulgatum
+1331,Oph.v,Ophioglossum vulgatum
+1694,Oph-t,Ophioglossum-type
+3338,Opz,Ophiorrhiza
+3156,Opl.h,Oplopanax horridum
+472,Opu,Opuntia
+3495,Opu.Op,Opuntia subg. Opuntia
+473,Orcae,Orchidaceae
+2781,Oro,Oreomyrrhis
+3109,Opx,Oreopanax
+3108,Opx.cf.f,Oreopanax cf. O. fulvum
+2681,Ore.l,Oreopteris limbosperma
+532,orgm%dm,Organic matter (percent dry mass)
+2741,Ori,Orites
+195,Osm,Osmanthus
+509,Osu,Osmunda
+3628,Osu.cf.c,Osmunda cf. O. cinnamomea
+678,Osu.c,Osmunda cinnamomea
+833,Osu.c-t,Osmunda cinnamomea-type
+679,Osu.l,Osmunda claytoniana
+850,Osu.r,Osmunda regalis
+1091,Osu.r/c,Osmunda regalis/O. claytoniana
+680,Osu.r-t,Osmunda regalis-type
+196,Osu.ud,Osmunda undiff.
+1206,Osuae,Osmundaceae
+1519,Osu-t,Osmunda-type
+1237,Ost,Ostrya
+197,Os/Ca,Ostrya/Carpinus
+3588,Os/Ca.o,Ostrya/Carpinus orientalis
+384,Ost-t,Ostrya-type
+1408,ot,Other
+1475,ot.aq,Other aquatics
+3009,ot.ferns,Other ferns
+1352,ot.herbs,Other herbs
+2982,ot.pol,Other pollen
+1129,pres.ud,Other preservation classes
+2782,ot.shrub,Other shrubs
+3010,ot.trees,Other trees
+1351,ot.tr&sh,Other trees and shrubs
+474,ot.up.he,Other upland herbs
+3253,Ort,Ouratea
+3110,Ort-t,Ouratea-type
+2099,Our,Ourisia
+1691,Our-t,Ourisia-type
+1634,Oxaae,Oxalidaceae
+936,Oxa,Oxalis
+1797,Oxa.I,Oxalis (type I)
+1633,Oxa-t,Oxalis-type
+198,Oxy.d,Oxyria digyna
+682,Oxy.d-t,Oxyria digyna-type
+1003,Oxt,Oxytropis
+683,Oxt.m-t,Oxytropis maydelliana-type
+1067,Oxt-t,Oxytropis-type
+3339,Plq,Palaquium
+1285,Pz.msp,Paleozoic megaspore
+2087,Pal,Palicourea
+3589,Pli,Paliurus
+356,,Palmae
+1798,Pam,Pamphalea
+3320,Panae,Pandanaceae
+3340,Pan,Pandanus
+1069,Pap,Papaver
+684,Papae,Papaveraceae
+2845,Phb,Parahebe
+1799,Prp-t,Parapiptadenia-type
+475,Par,Parietaria
+1397,Par-t,Parietaria-type
+2412,Pai,Parinari
+200,Prn,Parnassia
+3699,Prn.p,Parnassia palustris
+2555,Pyc,Paronychia
+2553,Pyc.a,Paronychia americana
+2554,Pyc.c,Paronychia chartacea
+3424,Pyc-t,Paronychia-type
+201,Prt,Parthenocissus
+935,Prt.v,Parthenocissus vitacea
+3255,Pas,Passiflora
+3256,Pasae,Passifloraceae
+3257,Pau,Paullinia
+685,Pdi.a,Pediastrum angulosum
+686,Pdi.b,Pediastrum boryanum
+687,Pdi.b.i,Pediastrum boryanum var. integrum
+688,Pdi.b.l,Pediastrum boryanum var. longicorne
+689,Pdi.r,Pediastrum braunii
+690,Pdi.d,Pediastrum duplex
+2949,Pdi.i,Pediastrum integrum
+691,Pdi.k,Pediastrum kawraiskyi
+2950,Pdi.l,Pediastrum longicornes
+692,Pdi.s,Pediastrum simplex
+693,Pdi.t,Pediastrum tetras
+1212,Pdi.ud,Pediastrum undiff.
+2977,Pdi/Btr,Pediastrum/Botryococcus
+476,Ped,Pedicularis
+1139,Ped.l,Pedicularis lanceolata
+1147,Ped.f,Pedicularis langsdorffii
+2289,Ped.ud,Pedicularis undiff.
+1152,Ped.v,Pedicularis verticillata
+1529,Ped-t,Pedicularis-type
+800,Pdm-t,Pediomelum-type
+2742,Pea.cf.f,Pellaea cf. P. falcata
+2846,Pea.f,Pellaea falcata
+1741,,Pelliciera
+1739,Pel.r,Pelliciera rhizophora
+1740,Pelae,Pellicieraceae
+2068,Plt,Peltogyne
+1534,Pns,Penstemon
+3067,Pep,Peperomia
+2174,Pre,Pera
+1687,Prz,Perezia
+2565,Prz-t,Perezia-type
+2527,Pph,Peristrophe
+2528,Pph.cf.b,Peristrophe cf. P. bicalyculata
+1951,Pry,Pernettya
+855,Per,Persea
+3527,Per.b,Persea borbonia
+2030,,Peschiera
+434,,Petalostemon
+435,,Petalostemon candidus
+436,,Petalostemon candidus-type
+437,,Petalostemon purpureus
+438,,Petalostemon purpureus-type
+439,,Petalostemum candidum
+440,,Petalostemum candidum-type
+441,,Petalostemum purpureum
+442,,Petalostemum purpureum-type
+3700,Pet-t,Petasites-type
+1844,Pfa.g,Pfaffia gnaphalioides
+206,Pha,Phacelia
+1444,Pha.f,Phacelia cf. P. franklinii
+2226,Pha.h-t,Phacelia hastata-type
+1800,,Phaeoceros laevis
+3068,Phe,Phaseolus
+2847,Pbl,Phebalium
+1644,,Philesia
+1642,Phi.m,Philesia magellanica
+3425,Pfl,Phillyrea
+3258,Plb.a-t,Phlebodium aureum-type
+477,Phl,Phlox
+2595,Phl.cf.h,Phlox cf. P. hoodii
+1445,Phl.p-t,Phlox pilosa-type
+1303,Phl.s,Phlox sibirica
+979,Phl-t,Phlox-type
+2403,Phx,Phoenix
+2404,Phx.r,Phoenix reclinata
+375,Pho,Phoradendron
+1646,,Phrygilanthus
+2492,Phy,Phyllanthus
+2493,Phy.n,Phyllanthus niruri
+2494,Phy.v,Phyllanthus rivae
+3524,Phy.t,Phyllanthus tenellus
+1845,Phy-t,Phyllanthus-type
+2743,Pyl,Phyllocladus
+2077,Phn,Phyllostylon
+3204,Phs,Physalis
+2953,Fys,Physocarpus
+2952,Fys.m,Physocarpus monogynus
+2001,Phcae,Phytolaccaceae
+3610,Pic(ab),Picea (abnormal)
+1288,Pic.ab,Picea abies
+3467,Pic.ab.a,Picea abies subsp. abies
+1369,Pic.ob,Picea abies subsp. obovata
+1233,Pic.cf.g,Picea cf. P. glauca
+1232,Pic.cf.m,Picea cf. P. mariana
+1007,Pic.d.gl,Picea det. P. glauca
+1008,Pic.d.ma,Picea det. P. mariana
+2317,Pic.gl,Picea glauca
+3671,Pic.g.rc,Picea glauca ratio count
+207,Pic.gl-t,Picea glauca-type
+2318,Pic.ma,Picea mariana
+3672,Pic.m.rc,Picea mariana ratio count
+208,Pic.ma-t,Picea mariana-type
+2665,Pic.or,Picea orientalis
+209,Pic.ru-t,Picea rubens-type
+2295,Pic.Eu,Picea sect. Eupicea
+2296,Pic.Om,Picea sect. Omorica
+3721,Pic.si,Picea sitchensis
+897,Pic.ud,Picea undiff.
+3673,Pic.u.rc,Picea undiff. ratio count
+1156,Pi/Pi.ud,Picea/Pinus undiff.
+479,Pil,Pilea
+2490,Pil.b,Pilea bambuseti
+478,Pil-t,Pilea-type
+1027,Pgd-t,Pilgerodendron-type
+2783,Pim,Pimelea
+329,Pinae,Pinaceae
+918,Pinae1/3,Pinaceae (1/3 grains)
+533,Pinae.v,Pinaceae (vesiculate)
+374,Pinae.vu,Pinaceae (vesiculate) undiff.
+64,Pinae.ud,Pinaceae undiff.
+1050,Png,Pinguicula
+646,Png.cf.v,Pinguicula cf. P. villosa
+981,Pin.al-t,Pinus albicaulis-type
+2961,Pin.ar,Pinus aristata
+2955,Pin.ar-t,Pinus aristata-type
+836,Pin.b/r,Pinus banksiana/P. resinosa
+695,Pin.ba-t,Pinus banksiana-type
+3426,Pin.ce,Pinus cembra
+211,Pin.cl-t,Pinus clausa-type
+3161,Pin.co,Pinus contorta
+976,Pin.c/p,Pinus contorta/P. ponderosa
+982,Pin.co-t,Pinus contorta-type
+1106,Pin.d.br,Pinus det. P. banksiana/P. resinosa
+1107,Pin.d.st,Pinus det. P. strobus
+386,Pin.ed-t,Pinus edulis-type
+2960,Pin.fl,Pinus flexilis
+2620,Pin.fl-t,Pinus flexilis-type
+977,Pin.m/a,Pinus monticola/P. albicaulis
+1409,Pin.mo-t,Pinus monticola-type
+3174,Pin.mu,Pinus muricata
+2959,Pin.po,Pinus ponderosa
+2954,Pin.po-t,Pinus ponderosa-type
+2848,Pin.ra,Pinus radiata
+3176,,Pinus remorata
+2094,Pin.re,Pinus resinosa
+696,Pin.re-t,Pinus resinosa-type
+3679,Pin.Ce,Pinus sect. Cembrae
+2154,Pin.st-t,Pinus strobus-type
+1356,,Pinus subg. Diploxylon
+1357,,Pinus subg. Haploxylon
+212,Pin.Pi,Pinus subg. Pinus
+214,Pin.P.rc,Pinus subg. Pinus ratio count
+913,Pin.P.ud,Pinus subg. Pinus undiff.
+213,Pin.St,Pinus subg. Strobus
+215,Pin.S.rc,Pinus subg. Strobus ratio count
+2917,PinSt.ud,Pinus subg. Strobus undiff.
+1287,Pin.sy,Pinus sylvestris
+3175,Pin.to,Pinus torreyana
+216,Pin.ud,Pinus undiff.
+873,Pin.u.rc,Pinus undiff. ratio count
+1742,Pip,Piper
+1743,Pipae,Piperaceae
+387,Pipae-t,Piperaceae-type
+3069,Ppd,Piptadenia
+2078,Psc,Piscidia
+2031,Pso,Pisonia
+388,Pis,Pistacia
+3427,Pis.l,Pistacia lentiscus
+2032,Pth,Pithecellobium
+2698,Pttae,Pittosporaceae
+2784,Ptt,Pittosporum
+2558,Pty,Pityrogramma
+217,Plr.a,Planera aquatica
+698,Plnae,Plantaginaceae
+1081,Plnae.ud,Plantaginaceae undiff.
+2879,Pln.int,Plantago (introduced)
+1952,Pln.lP3,Plantago (large triporate)
+2880,Pln.nat,Plantago (naturalized)
+2785,Pln1,Plantago 1
+2477,Pln.af,Plantago africana
+1004,Pln.ca,Plantago canescens
+1170,Pln.ca-t,Plantago canescens-type
+1803,Pln.cfau,Plantago cf. P. australis
+1804,Pln.cftu,Plantago cf. P. turficola
+3590,Pln.co-t,Plantago coronopus-type
+3206,,Plantago insularis
+220,Pln.la,Plantago lanceolata
+699,Pln.la-t,Plantago lanceolata-type
+219,Pln.ma,Plantago major
+2905,Pln.m/m,Plantago major/P. media
+838,Pln.ma-t,Plantago major-type
+1307,Pln.mt,Plantago maritima
+3591,Pln.mr-t,Plantago maritima-type
+221,Pln.me,Plantago media
+3418,Pln.me-t,Plantago media-type
+2849,Pln.mu-t,Plantago muelleri-type
+3205,Pln.ov,Plantago ovata
+1940,Pln.ri-t,Plantago rigida-type
+1446,Pln.ru-t,Plantago rugelii
+1936,Pln.se,Plantago sericea
+1912,Pln.se-t,Plantago sericea-type
+218,Pln.ud,Plantago undiff.
+2958,Pl/Th,Plantago/Thalictrum
+222,Pla,Platanus
+700,Pla.o,Platanus occidentalis
+701,Pl/Ca,Platanus/Callitriche
+3641,Ply,Platycarya
+3477,Pct,Plectritis
+2033,Plc,Plenckia
+959,Ple.p,Pleopeltis polypodioides
+3341,Pld,Plerandra
+3701,Plm,Pleurospermum
+3510,Puc.o,Pluchea odorata
+1298,Pluae,Plumbaginaceae
+2855,Poaae<20,Poaceae (<20 _m)
+2112,Poaae<40,Poaceae (<40 _m)
+2853,Poaae>35,Poaceae (>35 _m)
+2113,Poaae>40,Poaceae (>40 _m)
+2850,Poa20-25,Poaceae (20-25 _m)
+2851,Poa25-30,Poaceae (25-30 _m)
+2852,Poa30-35,Poaceae (30-35 _m)
+3540,Pa>30,Poaceae (aspidate pore) >30 _m
+3538,Pa10-15,Poaceae (aspidate pore) 10-15 _m
+3539,Pa20-25,Poaceae (aspidate pore) 20-25 _m
+3537,Pf>30,Poaceae (flat pore) >30 _m
+3535,Pf10-15,Poaceae (flat pore) 10-15 _m
+3536,Pf20-25,Poaceae (flat pore) 20-25 _m
+3370,Poaae.1,Poaceae 1
+3371,Poaae.2,Poaceae 2
+3372,Poaae.3,Poaceae 3
+3373,Poaae.4,Poaceae 4
+3374,Poaae.5,Poaceae 5
+3375,Poaae.6,Poaceae 6
+3376,Poaae.7,Poaceae 7
+3377,Poaae.8,Poaceae 8
+125,Poaae.ud,Poaceae undiff.
+1628,Podae,Podocarpaceae
+1028,Pod,Podocarpus
+2856,Pod.l,Podocarpus lawrencei
+1029,Pod.n,Podocarpus nubigena
+3136,Pod.p,Podocarpus parlatorei
+1030,Pod.s,Podocarpus saligna
+2034,Poi,Poiretia
+223,Pomae,Polemoniaceae
+1150,Pomae.ud,Polemoniaceae undiff.
+798,Pom,Polemonium
+2297,Pom.a,Polemonium acutiflorum
+2298,Pom.b,Polemonium boreale
+2619,Po/Gi,Polemonium/Gilia
+63,PCn/ml,"Pollen (concentration, grains/ml)"
+926,PCEuc/g,Pollen concentration - Eucalyptus method (grains/g)
+924,PCJor/g,Pollen concentration - Jorgensen method (grains/g)
+925,PCJor/ml,Pollen concentration - Jorgensen method (grains/ml)
+928,PCLyc/g,Pollen concentration - Lycopodium method (grains/g)
+929,PCLyc/ml,Pollen concentration - Lycopodium method (grains/ml)
+137,PCmic/ml,Pollen concentration - microsphere method (grains/ml)
+1072,Plg,Polygala
+224,Plgae,Polygalaceae
+702,Polae,Polygonaceae
+225,Polae.ud,Polygonaceae undiff.
+481,Pll,Polygonella
+227,Pll.f/m,Polygonella fimbriata/P. myriophylla
+993,Pll.f-t,Polygonella fimbriata-type
+784,Pll.p-t,Polygonella polygama-type
+540,Pol,Polygonum
+1005,Pol.al,Polygonum alaskanum
+230,Pol.am,Polygonum amphibium
+888,Pol.am-t,Polygonum amphibium-type
+965,Pol.ar-t,Polygonum arenastrum-type
+947,Pol.av,Polygonum aviculare
+231,Pol.av-t,Polygonum aviculare-type
+1184,Pol.bs,Polygonum bistorta
+703,Pol.bs-t,Polygonum bistorta-type
+869,Pol.bi,Polygonum bistortoides
+232,Pol.bi-t,Polygonum bistortoides-type
+870,Pol.ca,Polygonum californicum
+528,Pol.ca-t,Polygonum californicum-type
+1593,Pol.c.hy,Polygonum cf. P. hydropiperoides
+1514,Pol.c.la,Polygonum cf. P. lapathifolium
+1513,Pol.c.sc,Polygonum cf. P. scandens
+2163,Pol.co,Polygonum convolvulus
+704,Pol.co-t,Polygonum convolvulus-type
+827,Pol.hd-t,Polygonum hydropiper-type
+3171,Pol.la,Polygonum lapathifolium
+3680,Pol.lx,Polygonum laxmannii
+2478,Pol.ne,Polygonum nepalense
+2892,Pol.ox.r,Polygonum oxyspermum ssp. raii
+1417,Pol.ox-t,Polygonum oxyspermum-type
+988,Pol.pe,Polygonum persicaria
+884,Pol.pe-t,Polygonum persicaria-type
+1418,,Polygonum raii-type
+893,Pol.ra-t,Polygonum ramosissimum-type
+3481,Pol.sa-t,Polygonum sagittatum-type
+3496,Pol.sw,Polygonum sawatchense
+3649,Pol.sc-t,Polygonum scandens-type
+2294,Pol.Ac,Polygonum sect. Aconogonon
+2245,Pol.Bi,Polygonum sect. Bistorta
+2292,Pol.Du,Polygonum sect. Duravia
+2290,Pol.Pe,Polygonum sect. Persicaria
+2291,Pol.Po,Polygonum sect. Polygonum
+2293,Pol.Ti,Polygonum sect. Tiniaria
+2479,Pol.se,Polygonum senegalense
+482,Pol.te-t,Polygonum tenue-type
+229,Pol.ud,Polygonum undiff.
+705,Pol.vi,Polygonum viviparum
+824,Pol.vi-t,Polygonum viviparum-type
+706,Pyk.s,Polykrikos schartzii
+1913,Po/Ac,Polylepis/Acaena
+234,Plpae,Polypodiaceae
+2299,Plpae.ud,Polypodiaceae undiff.
+676,Polta,Polypodiophyta
+2871,Polta.ep,Polypodiophyta (epiphytic)
+799,Polta.m,Polypodiophyta (monolete)
+957,Polta.mu,Polypodiophyta (monolete) undiff.
+1265,Polta.t,Polypodiophyta (trilete)
+958,Polta.tu,Polypodiophyta (trilete) undiff.
+2834,Polta137,Polypodiophyta (type 137)
+2835,Polta156,Polypodiophyta (type 156)
+108,Polta.ud,Polypodiophyta undiff.
+835,Plp,Polypodium
+3259,,Polypodium aureum-type
+2687,Plp.au,Polypodium australe
+2686,Plp.ca,Polypodium cambricum
+1053,Plp.fe,Polypodium feuillei
+2634,,Polypodium fragrans
+1383,,Polypodium polypodioides
+2300,Plp.si,Polypodium sibiricum
+707,Plp.vi,Polypodium virginianum
+2301,Plp.vu,Polypodium vulgare
+235,Plp-t,Polypodium-type
+2374,Pys,Polyscias
+2373,Pys.f,Polyscias fulva
+708,Psp.z,Polysphaeridium zoharyi
+964,Pls,Polystichum
+2786,Pma,Pomaderris
+885,Pon,Pontederia
+236,Ponae,Pontederiaceae
+389,Pop,Populus
+3611,Pop(de),Populus (degraded)
+238,Pop.ba-t,Populus balsamifera-type
+709,Pop.de-t,Populus deltoides-type
+710,Pop.gr-t,Populus grandidentata-type
+3435,Pop.ta,Populus tremula
+239,Pop.tr-t,Populus tremuloides-type
+3722,Pop.tc,Populus trichocarpa
+862,Pop.tc-t,Populus trichocarpa-type
+237,Pop.ud,Populus undiff.
+2787,Prh,Poranthera
+966,Por,Portulaca
+240,Porae,Portulacaceae
+2302,Porae.ud,Portulacaceae undiff.
+517,Pot,Potamogeton
+516,Pot.Co,Potamogeton subg. Coleogeton
+1402,,Potamogeton subg. Eupotamogeton
+105,Pot.Po,Potamogeton subg. Potamogeton
+812,Pot.Po-t,Potamogeton subg. Potamogeton-type
+2480,Pot.t,Potamogeton thunbergii
+241,Pot.ud,Potamogeton undiff.
+2615,Pot.v-t,Potamogeton vaginatus-type
+1235,Po/Tr.ud,Potamogeton/Triglochin undiff.
+3468,,Potamogetonaceae
+810,Pot-t,Potamogeton-type
+825,Ptl,Potentilla
+2637,Ptl.cf.p,Potentilla cf. P. palustris
+985,Ptl.p,Potentilla palustris
+712,Ptl.p-t,Potentilla palustris-type
+3451,Ptl.Co,Potentilla subg. Comarum
+3452,Ptl.Co-t,Potentilla subg. Comarum-type
+3453,Ptl.Co.u,Potentilla subg. Comarum-type undiff.
+242,Ptl-t,Potentilla-type
+3624,Ptl-t.ud,Potentilla-type undiff.
+2092,Pur,Pourouma
+2089,Pou,Pouteria
+1846,Pou.g,Pouteria garderana
+519,pQ,pre-Quaternary
+337,pQ.Aqu,pre-Quaternary (Aquilapollenites)
+1540,pQ!Cbv.p,pre-Quaternary (cf. Clavabivesiculites pannosus)
+1541,pQ!Fia.s,pre-Quaternary (cf. Foveoinaperturites scaphoformis)
+1549,pQ!Gia.r,pre-Quaternary (cf. Gemmainaperturites rugosus)
+1542,pQ!Pus.p,pre-Quaternary (cf. Punctatisporites punctus)
+1555,pQ!Rls.q,pre-Quaternary (cf. Rugulatisporites quintus)
+1543,pQ!Str.b,pre-Quaternary (cf. Striatriletes bifurcus)
+1558,pQ!Tps,pre-Quaternary (cf. Triplanosporites)
+1544,pQ!Via.d,pre-Quaternary (cf. Verruinaperturites depressus)
+1545,pQ!Vmc.c,pre-Quaternary (cf. Verrumonocolpites conspicuus)
+1546,pQ.Cgt.c,pre-Quaternary (Cingutriletes congruens)
+1547,pQ.Cgt.d,pre-Quaternary (Cingutriletes densocingulatus)
+1447,pQ.Cgt.i,pre-Quaternary (Cingutriletes interruptus)
+2211,pQ.Cgt.p,pre-Quaternary (Cingutriletes parvicingulus)
+520,pQ.Cgt,pre-Quaternary (Cingutriletes)
+2212,pQ.Cpl,pre-Quaternary (Classopollis)
+1954,pQ.K-tsp,pre-Quaternary (Cretaceous-type spore)
+521,pQ.Cup-t,pre-Quaternary (Cupressaceae-type)
+2214,pQ.Cym,pre-Quaternary (Cymatiosphere)
+1448,pQ.Di.Hy,pre-Quaternary (Dinoflagellida and Hystrichospherids)
+611,pQ.Dinda,pre-Quaternary (Dinoflagellida)
+522,pQ.Eng-t,pre-Quaternary (Engelhardtia-type)
+1548,pQ.Ftr.t,pre-Quaternary (Foveotriletes triplanus)
+2213,pQ.Grv.i,pre-Quaternary (Granabivesiculites inchoatus)
+1550,pQ.Psi.e,pre-Quaternary (Psilatriletes excelsus)
+1551,pQ.Psi.i,pre-Quaternary (Psilatriletes vitreus)
+1449,pQ.Psi.v,pre-Quaternary (Psilatriletes vulgaris)
+249,pQ.Pte,pre-Quaternary (Pterocarya)
+1552,pQ.Pun.p,pre-Quaternary (Punctatriletes parvimundus)
+1553,pQ.Rte.m,pre-Quaternary (Retitetradites monocolpatus)
+1554,pQ.Rtc.p,pre-Quaternary (Retitricolpites prolatus)
+1450,pQ.Rbv,pre-Quaternary (Rugubivesiculites)
+1556,pQ.Rtr.r,pre-Quaternary (Rugutriletes regularis)
+243,pQ.sp.ud,pre-Quaternary (spore undiff.)
+2303,pQ.sp,pre-Quaternary (spore)
+523,pQ.Str,pre-Quaternary (Striatriletes)
+1123,pQ.t.sp,pre-Quaternary (trilete spore)
+1557,pQ.Vmp.v,pre-Quaternary (Verrumonoporites verrucatus)
+524,pQ.ud,pre-Quaternary undiff.
+484,Pri,Primula
+244,Priae,Primulaceae
+1598,Priae.ud,Primulaceae undiff.
+713,Ppt,Proptoperidinium
+828,Pro,Proserpinaca
+1494,Pps,Prosopis
+2857,Pst,Prostanthera
+2407,Pra,Protea
+1667,Praae,Proteaceae
+2800,Praae.ud,Proteaceae undiff.
+2035,Pti,Protium
+2191,Przoa,Protozoa
+1688,Prm.a,Prumnopitys andina
+2928,Prl,Prunella
+2881,Prl.v,Prunella vulgaris
+714,Prl-t,Prunella-type
+2413,Pru.af,Prunus africana
+2600,Pru.am,Prunus americana
+941,Pru.am-t,Prunus americana-type
+995,Pru.cf.s,Prunus cf. P. serotina
+717,Pru.s,Prunus serotina
+942,Pru.ud,Prunus undiff.
+943,Pru.v-t,Prunus virginiana-type
+2617,Pr/Am,Prunus/Amelanchier
+541,Pr/So,Prunus/Sorbus
+245,Pru-t,Prunus-type
+1213,Pru-t.ud,Prunus-type undiff.
+2744,Pse,Pseudanthus
+2069,Pbx,Pseudobombax
+169,Psl.c,Pseudolycopodiella carolinianum
+1623,Psx,Pseudopanax
+1038,Psx.l,Pseudopanax laetevirens
+246,Psu,Pseudotsuga
+1412,Psu.m,Pseudotsuga menziesii
+978,Psu-t,Pseudotsuga-type
+1744,Psd,Psidium
+485,,Psoralea
+2207,Psm,Psoralidium
+2206,Psm.l,Psoralidium cf. P. lanceolatum
+3111,Psy,Psychotria
+1848,Psy.cf.a,Psychotria cf. P. alba
+2070,Pta,Pterandra
+3144,,Pteretis pensylvanica
+1625,Ptsae,Pteridaceae
+807,Ptr,Pteridium
+247,Ptr-t,Pteridium-type
+677,Ptrta,Pteridophyta
+1805,Ptrta.me,Pteridophyta (monolete echinate)
+1806,Ptrta.mp,Pteridophyta (monolete psilate)
+2175,P.mp<50,Pteridophyta (monolete psilate) <50 _m
+3070,Ptr.mpl,"Pteridophyta (monolete psilate, large)"
+3071,Ptr.mps,"Pteridophyta (monolete psilate, small)"
+1851,Ptr.mvI,Pteridophyta (monolete verrucate I)
+1849,Ptr.mvII,Pteridophyta (monolete verrucate II)
+1807,Ptrta.mv,Pteridophyta (monolete verrucate)
+1850,Ptr.m.pe,Pteridophyta (monolete with perine)
+3114,Ptrta.m,Pteridophyta (monolete)
+3112,Ptr.mwp,"Pteridophyta (monolete, ""waved"" perispore)"
+3113,Ptrta.tf,Pteridophyta (trilete foveolate)
+1808,Ptrta.tp,Pteridophyta (trilete psilate)
+3141,Ptrta.tu,Pteridophyta (trilete undiff.)
+1695,Ptrta.t,Pteridophyta (trilete)
+2027,Ptrta.ud,Pteridophyta undiff.
+1624,Pts,Pteris
+2688,Pts.c,Pteris cretica
+3542,Pts.v,Pteris vittata
+1060,Pts-t,Pteris-type
+2667,Pte,Pterocarya
+2666,Pte.p,Pterocarya pterocarpa
+2071,Ptd,Pterodon
+2037,Ptd-t,Pterodon-type
+2304,Pul,Pulsatilla
+2788,Put-t,Pultenaea-type
+1914,Puy,Puya
+721,Pyo,Pyrola
+1159,Pyoae,Pyrolaceae
+250,Pyr-t,Pyrus-type
+1196,Qua.s,Quadrulella symmetrica
+2038,Qal,Qualea
+2342,Que.dec,Quercus (deciduous)
+2532,Que.eve,Quercus (evergreen)
+3592,Que.c-t,Quercus coccifera-type
+3474,Que.g,Quercus garryana
+2929,Que.i-t,Quercus ilex-type
+3593,Que.r-t,Quercus robur-type
+2943,Que.ud,Quercus undiff.
+3475,Que-t,Quercus-type
+1656,Qui,Quinchamalium
+3378,Qun,Quintinia
+2529,Rnd,Randia
+350,Ranae,Ranunculaceae
+405,Ranae.cp,Ranunculaceae (pericolpate)
+404,Ranae.c3,Ranunculaceae (tricolpate)
+896,RanC3.ud,Ranunculaceae (tricolpate) undiff.
+3403,Ranae.t1,Ranunculaceae (type 1)
+3404,Ranae.t2,Ranunculaceae (type 2)
+1254,R.cf.Acm,Ranunculaceae cf. Aconitum
+252,Ranae.ud,Ranunculaceae undiff.
+549,Ran,Ranunculus
+2893,Ran.ac,Ranunculus acris
+996,Ran.ac-t,Ranunculus acris-type
+3124,Ran.aq-t,Ranunculus aquatilis-type
+3702,Ran.ar-t,Ranunculus arvensis-type
+3115,Ran.cf.b,Ranunculus cf. R. bonariensis
+1089,Ran.fl,Ranunculus flabellaris
+407,Ran.fl-t,Ranunculus flabellaris-type
+3709,Ran.li,Ranunculus lingua
+891,,Ranunculus longirostris-type
+890,Ran.pe-t,Ranunculus pensylvanicus-type
+3594,Ran.re-t,Ranunculus repens-type
+1105,Ran.Ba,Ranunculus subg. Batrachium
+3595,Ran.Ba-t,Ranunculus subg. Batrachium-type
+1467,,Ranunculus trichophyllus-type
+253,Ran.ud,Ranunculus undiff.
+815,Ran-t,Ranunculus-type
+1229,Ran-t.ud,Ranunculus-type undiff.
+1405,Rpa,Rapanea
+3379,Rpa.C3-4,Rapanea (3-4 colpate)
+2400,Rpa.m,Rapanea melanophloeos
+3116,,Relbunium
+2482,Resae,Resedaceae
+2745,Rstae,Restionaceae
+256,Rhaae,Rhamnaceae
+1214,Rhaae.ud,Rhamnaceae undiff.
+726,Rh/Vi,Rhamnaceae/Vitaceae
+255,Rh/Vi.ud,Rhamnaceae/Vitaceae undiff.
+785,Rha,Rhamnus
+1451,Rha.a,Rhamnus alnifolia
+723,Rha.a/f,Rhamnus alnifolia/R. frangula
+725,Rha.c,Rhamnus cathartica
+2322,Rha.f,Rhamnus frangula
+1468,Rha.p,Rhamnus purshiana-type
+724,Ra/Vt,Rhamnus/Vitis
+1226,Ra/Vt.ud,Rhamnus/Vitis undiff.
+3072,Rha-t,Rhamnus-type
+1626,Rap,Rhaphithamnus
+2608,Rhx,Rhexia
+428,Rhx-t,Rhexia-type
+2930,Rhi,Rhinanthus
+2931,Rhi-t,Rhinanthus-type
+1852,Rhp,Rhipsalis
+258,Rhz,Rhizophora
+3030,Rhzae,Rhizophoraceae
+775,Rhzda,Rhizopoda
+259,Rho,Rhododendron
+727,Rho.c,Rhododendron canadense
+260,Rhu,Rhus
+730,Rhu.t,Rhus typhina
+3145,Rhu.t-t,Rhus typhina-type
+729,Rh/To,Rhus/Toxicodendron
+1452,R/T.cf.r,Rhus/Toxicodendron cf. T. radicans
+1538,R/T.cf.v,Rhus/Toxicodendron cf. T. vernix
+261,Rhy,Rhynchospora
+2227,Rhy.a,Rhynchospora alba
+3518,Rhy.c,Rhynchospora colorata
+486,Rhy-t,Rhynchospora-type
+262,Rib,Ribes
+2957,Rib.a,Ribes aureum
+732,Rib.cf.g,Ribes cf. R. glandulosum
+3634,,Ribes grossularia-type
+3633,Rib.uc-t,Ribes uva-crispa-type
+1343,Ric,Riccia
+2789,Rci,Ricinocarpos
+2468,Rcn.c,Ricinus communis
+263,Rob,Robinia
+934,Rob-t,Robinia-type
+843,Ros,Rosa
+483,Rosae,Rosaceae
+3133,Rosae<20,Rosaceae (<20 _m)
+3132,Rosae>20,Rosaceae (>20 _m)
+1251,R.cf.Ade,Rosaceae cf. Adenostoma
+3442,cf.Fil,Rosaceae cf. Filipendula
+2235,cf.Hol,Rosaceae cf. Holodiscus
+3443,cf.Sor,Rosaceae cf. Sorbus
+2161,Ro.he.ud,Rosaceae herbs undiff.
+1294,Rosae.Ma,Rosaceae subf. Maloideae
+265,Ro.tr.ud,Rosaceae trees undiff.
+3181,Ro/An/Rh,Rosaceae/Anacardiaceae/Rhamnaceae
+3688,Rotif,Rotifera
+2040,Rou,Roupala
+2485,Rub,Rubia
+733,Rubae,Rubiaceae
+266,Rubae.ud,Rubiaceae undiff.
+267,Rbs,Rubus
+1171,Rbs.a,Rubus arcticus
+840,Rbs.cf.c,Rubus cf. R. chamaemorus
+734,Rbs.c,Rubus chamaemorus
+3486,Rbs.c-t,Rubus chamaemorus-type
+3405,Rbs.fr-t,Rubus fruticosus-type
+2414,Rbs.pi,Rubus pinnatus
+1419,Rbs-t,Rubus-type
+3637,Rbs-t.ud,Rubus-type undiff.
+2041,Rue,Ruellia
+268,Rum,Rumex
+736,Rum.as-t,Rumex acetosa-type
+3172,Rum.al,Rumex acetosella
+1532,Rum.al-t,Rumex acetosella-type
+2648,Rum.cf.a,Rumex cf. R. acetosella
+1453,Rum.cf.s,Rumex cf. R. salicifolius
+2202,Rum.cf.v,Rumex cf. R. verticillatus
+3497,Rum.de,Rumex densiflorus
+3596,Rum.hy,Rumex hydrolapathum
+3173,Rum.me,Rumex mexicanus
+1087,Rum.ob-t,Rumex obtusifolius-type
+3436,Rum.a/a,Rumex subg. Acetosa/R. subg. Acetosella
+3445,Rum.Ru,Rumex subg. Rumex
+904,Rum.ud,Rumex undiff.
+536,Ru/Ox,Rumex/Oxyria digyna
+1209,Ru/Ox.ud,Rumex/Oxyria digyna undiff.
+1227,Rum-t.ud,Rumex-type undiff.
+737,,Ruppia
+518,Rup.m,Ruppia maritima
+1420,Rup.m-t,Ruppia maritima-type
+390,Rutae,Rutaceae
+1220,Rutae.ud,Rutaceae undiff.
+269,Sab,Sabal
+1794,Sbiae,Sabiaceae
+2042,Sbc,Sabicea
+3428,Sgi-t,Sagina-type
+270,Sag,Sagittaria
+3260,Sag/Ecn,Sagittaria/Echinodorus
+1746,Slcae,Salicaceae
+738,Slx.ar-t,Salix arctica-type
+3543,Slx.c,Salix caroliniana
+1875,Slx.cf.h,Salix cf. S. humboldtiana
+272,Slx.he,Salix herbacea
+739,Slx.he-t,Salix herbacea-type
+3073,Slx.hu,Salix humboldtiana
+1084,Slx.ni,Salix nigra
+740,Slx.re-t,Salix reticulata-type
+1216,Slx.ud,Salix undiff.
+273,Slx.ve,Salix vestita
+741,Slx.ve-t,Salix vestita-type
+1745,Slx-t,Salix-type
+274,Sal,Salsola
+1279,Sal-t,Salsola-type
+2146,Slg,Salvagesia
+1339,Slv,Salvia
+3391,Svi,Salvinia
+275,Sam,Sambucus
+3515,Sam.c,Sambucus canadensis
+3597,Sam.n-t,Sambucus nigra-type
+1421,Sam-t,Sambucus-type
+921,sa.ma.g,Sample dry mass (g)
+923,aliqut.g,"Sample mass (of counted, g)"
+1282,sme.g,Sample mass examined (g)
+276,sa.vo.ml,Sample volume (ml)
+1277,sve.ml,Sample volume examined (ml)
+1522,sand%im,Sand (percent mass after LOI)
+826,Sng.c,Sanguinaria canadensis
+277,San,Sanguisorba
+742,San.ca,Sanguisorba canadensis
+3454,San.mi,Sanguisorba minor
+1301,San.of,Sanguisorba officinalis
+3723,San.st,Sanguisorba stipulata
+980,San-t,Sanguisorba-type
+1657,Sntae,Santalaceae
+1136,Sapae,Sapindaceae
+1231,Sapae.ud,Sapindaceae undiff.
+278,Sap,Sapindus
+2043,Spm,Sapium
+2384,Spm.e,Sapium ellipticum
+1747,Spm-t,Sapium-type
+1847,Sptae,Sapotaceae
+2100,Sptae.ud,Sapotaceae undiff.
+744,,Sarcobatus
+279,Sar.v,Sarcobatus vermiculatus
+280,Src,Sarracenia
+745,Src.p,Sarracenia purpurea
+2639,Sas,Sassafras
+2638,Sas.a,Sassafras albidum
+3380,Sru,Saurauia
+3545,Surae,Saururaceae
+3544,Sur,Saururus cernuus
+1157,Sau,Saussurea
+1658,,Saxegothaea
+1627,Sxg.c,Saxegothaea conspicua
+487,Sax,Saxifraga
+2923,Sax.ai,Saxifraga aizoides
+1148,Sax.ce,Saxifraga cernua
+746,Sax.ce-t,Saxifraga cernua-type
+3615,Sax.cf.h,Saxifraga cf. S. hirculus
+844,Sax.cf.p,Saxifraga cf. S. punctata
+845,Sax.cf.s,Saxifraga cf. S. stellaris
+2591,Sax.cf.v,Saxifraga cf. S. virginiensis
+1149,Sax.fo,Saxifraga foliolosa
+1174,Sax.fo-t,Saxifraga foliolosa-type
+1145,Sax.hi,Saxifraga hieracifolia
+1175,Sax.hi-t,Saxifraga hieracifolia-type
+3406,Sax.ni,Saxifraga nivalis
+3619,Sax.ni-t,Saxifraga nivalis-type
+2319,Sax.op,Saxifraga oppositifolia
+747,Sax.op-t,Saxifraga oppositifolia-type
+2320,Sax.pe,Saxifraga pensylvanica
+1146,Sax.tr,Saxifraga tricuspidata
+1144,Sax.tr-t,Saxifraga tricuspidata-type
+1222,Sax.ud,Saxifraga undiff.
+282,Saxae,Saxifragaceae
+912,Saxae.ud,Saxifragaceae undiff.
+1473,Saxae-t,Saxifragaceae-type
+281,Sax-t,Saxifraga-type
+1325,Sca,Scabiosa
+3598,Sca.r-t,Scabiosa rotata-type
+3342,Sce,Scaevola
+2375,Sff,Schefflera
+2376,Sff.a,Schefflera abyssinica
+2377,Sff.m,Schefflera myriantha
+283,Shz.p,Scheuchzeria palustris
+1635,Sch,Schinus
+3502,Sch.t,Schinus terebinthifolius
+1809,Sch-t,Schinus-type
+1853,Scz.e,Schizaea elegans
+1854,Sczae,Schizaeaceae
+2859,Szl,Schizeilema
+2858,Szl.f,Schizeilema fragosea
+3261,Szo,Schizolobium
+333,Shr,Schrankia
+3523,Sci.v,Scirpus validus
+2907,Slr,Scleranthus
+2906,Slr.p,Scleranthus perennis
+2908,Slr-t,Scleranthus-type
+2044,Scl,Sclerolobium
+3599,Scr/Vrb,Scrophularia/Verbascum
+284,Scrae,Scrophulariaceae
+1160,Scrae.ud,Scrophulariaceae undiff.
+525,Scrae-t,Scrophulariaceae-type
+1539,Scu.cf.g,Scutellaria cf. S. galericulata
+1099,Scu-t,Scutellaria-type
+2469,Sba,Sebaea
+2470,Sba.b,Sebaea brachyphylla
+2045,Seb,Sebastiania
+1870,Seb.b,Sebastiania brasiliensis
+3074,Seb.cf.s,Sebastiania cf. S. schottiana
+1810,Seb.c,Sebastiania commersoniana
+967,Sec,Secale
+488,Sec-t,Secale-type
+2495,Sga,Securinega
+2496,Sga.v,Securinega virosa
+285,Sed,Sedum
+3469,Sed.a,Sedum acre
+286,Sel,Selaginella
+3658,Sel.ar,Selaginella arenicola
+1871,,Selaginella cf. S. excurrens
+3131,Sel.cf.m,Selaginella cf. S. marginata
+1855,Sel.dc,Selaginella decomposita
+986,Sel.de,Selaginella densa
+510,Sel.de-t,Selaginella densa-type
+2679,Sel.he,Selaginella helvetica
+749,Sel.ru,Selaginella rupestris
+511,Sel.ru-t,Selaginella rupestris-type
+2305,Sel.sa,Selaginella sanguinolenta
+750,Sel.se,Selaginella selaginoides
+1006,Sel.si,Selaginella sibirica
+1187,Sel.ud,Selaginella undiff.
+1410,Sel.wa,Selaginella wallacei
+1422,Sel.wa-t,Selaginella wallacei-type
+886,Sen,Senecio
+2381,Sen.m,Senecio mannii
+1915,Sen-t,Senecio-type
+2801,Seq,Sequoia
+1592,Sqd,Sequoiadendron
+287,Ser,Serenoa
+2449,Srs,Sericostachys
+2450,Srs.s,Sericostachys scandens
+2046,Sej,Serjania
+3525,Ses,Sesbania
+542,She,Shepherdia
+289,She.a,Shepherdia argentea
+290,She.c,Shepherdia canadensis
+2966,She.c-t,Shepherdia canadensis-type
+1496,She.r,Shepherdia rotundifolia
+288,She.ud,Shepherdia undiff.
+291,shrub.ud,Shrubs undiff.
+3076,,Sickingia
+1572,Sid,Sida
+2306,Sil,Silene
+2454,Sil.b,Silene burchellii
+3703,Sil-t,Silene-type
+2179,silc%dm,Silicates (percent dry mass)
+3075,Smr,Simira
+1588,Sim.c,Simmondsia chinensis
+3211,Sin,Sinapsis
+3210,Sin.a,Sinapsis arvensis
+334,Sis,Sisyrinchium
+1135,Sis-t,Sisyrinchium-type
+3629,Siu-t,Sium-type
+2047,Slo,Sloanea
+2117,sgrav%cl,Small gravel (percent clastics)
+1643,Smiae,Smilacaceae
+2633,Sml.t-t,Smilacina trifolia-type
+819,Smi,Smilax
+2502,Smt,Smithia
+2503,Smt.e,Smithia elliotii
+543,Solae,Solanaceae
+292,Solae.ud,Solanaceae undiff.
+1515,Solae-t,Solanaceae-type
+1262,Sol,Solanum
+3600,Sol.d,Solanum dulcamara
+489,Sol.r,Solanum rostratum
+3031,Sol-t,Solanum-type
+3407,Sld-t,Solidago-type
+1521,ss.mmhos,Soluble salts (millimhos)
+2125,ss%dm,Soluble salts (percent dry mass)
+3470,Son,Sonchus
+3511,Son.o,Sonchus oleraceus
+1435,Sor,Sorbus
+1315,Sor.a,Sorbus aucuparia
+1363,,Sorbus sibirica
+3455,Sor-t,Sorbus-type
+3471,,Sparganiaceae
+908,Spa,Sparganium
+293,Spa-t,Sparganium-type
+2932,Spu,Spergula
+2933,Spu.a,Spergula arvensis
+2937,Spu.a-t,Spergula arvensis-type
+1313,Sp/Sp,Spergula/Spergularia
+2936,Spl,Spergularia
+2935,Spl-t,Spergularia-type
+2934,Spu-t,Spergula-type
+2486,Spe,Spermacoce
+490,Sph,Sphaeralcea
+1122,Sph.c,Sphaeralcea coccinea
+1423,Sph-t,Sphaeralcea-type
+3343,Sae,Sphaerostephanos
+1305,spik.ud,Spike (undiff.)
+2636,spk.ta.n,"Spike tablets (added, number)"
+2635,spkCn/t,"Spike tablets (concentration, grains/tablet)"
+787,Spn.cf.b,Spiniferites cf. S. bulloides
+788,Spn.cf.m,Spiniferites cf. S. mirabilis
+789,Spn.cf.r,Spiniferites cf. S. ramosus
+791,Spn.e-t,Spiniferites elongatus-type
+790,Spn.ud,Spiniferites undiff.
+753,Spi,Spiraea
+295,Spi-t,Spiraea-type
+1488,Spy,Spirogyra
+2176,Spc,Spirotheca
+2091,Spd,Spondias
+1748,Spd-t,Spondias-type
+340,sp,Spore
+2229,sp.a.ps,Spore (alete psilate)
+547,sp.a.ud,Spore (alete undiff.)
+754,sp.a,Spore (alete)
+2630,sp.P2,Spore (diporate)
+3333,sp.m.A,Spore (monolete A)
+3334,sp.m.B,Spore (monolete B)
+1934,sp.m.fo,Spore (monolete foveolate)
+2343,sp.m.ps,Spore (monolete psilate)
+2139,sp.m.re,Spore (monolete reticulate)
+2230,sp.m.sc,Spore (monolete sculptured)
+184,sp.m.ud,Spore (monolete undiff.)
+1941,sp.m.ve,Spore (monolete verrucate)
+3364,sp.m25,Spore (monolete) 25 _m
+3365,sp.m35,Spore (monolete) 35 _m
+3366,sp.m45,Spore (monolete) 45 _m
+3363,sp.m55,Spore (monolete) 55 _m
+2140,sp.st,Spore (striate)
+1137,sp.t.co,Spore (trilete corroded)
+755,sp.t.fo,Spore (trilete foveolate)
+3268,Sp.tp.1,Spore (trilete psilate type 1)
+3269,Sp.tp.2,Spore (trilete psilate type 2)
+1256,sp.t.ps,Spore (trilete psilate)
+2138,sp.t.re,Spore (trilete reticulate)
+1257,sp.t.sc,Spore (trilete sculptured)
+3262,Sp.t.2,Spore (trilete type 2)
+3263,Sp.t.3,Spore (trilete type 3)
+3264,Sp.t.4,Spore (trilete type 4)
+3265,Sp.t.6,Spore (trilete type 6)
+3266,Sp.t.7,Spore (trilete type 7)
+3267,Sp.t.8,Spore (trilete type 8)
+1937,sp.t.j,Spore (trilete type j)
+305,sp.t.ud,Spore (trilete undiff.)
+3270,Sp.tv.1,Spore (trilete verrucate type 1)
+887,sp.t.ve,Spore (trilete verrucate)
+296,sp.ud,Spore undiff.
+1493,Spr,Sporites
+1489,Fu:Spo,Sporormiella
+2894,Sta,Stachys
+491,Sta-t,Stachys-type
+2790,Stk,Stackhousia
+2791,Stkae,Stackhousiaceae
+2746,Stu.e,Staurophyra elegans
+545,Ste,Stellaria
+2909,Ste.h,Stellaria holostea
+2455,Ste.m,Stellaria mannii
+841,Ste-t,Stellaria-type
+2072,Stm,Stemonurus
+2513,Stn,Stephania
+2514,Stn.a,Stephania abyssinica
+2438,Stc,Sterculia
+1729,Stcae,Sterculiaceae
+1811,Sth,Struthanthus
+2177,Stp,Stryphnodendron
+3011,Stp-t,Stryphnodendron-type
+2748,Stiae,Stylidiaceae
+2747,Sti,Stylidium
+392,Stl,Styloceras
+1813,Styae,Styracaceae
+1812,Sty,Styrax
+492,Sua-t,Suaeda-type
+2910,Suc,Succisa
+2471,Swe,Swertia
+2472,Swe.u,Swertia usambarensis
+3271,Smm,Symmeria
+1749,Smh,Symphonia
+2388,Smh.g,Symphonia globulifera
+1269,Sym,Symphoricarpos
+2316,Sym.o,Symphoricarpos occidentalis
+393,Sym-t,Symphoricarpos-type
+2911,Syy,Symphytum
+2912,Syy-t,Symphytum-type
+1858,Sypae,Symplocaceae
+297,Syp,Symplocos
+1856,Syp.l-t,Symplocos lanceolata-type
+1857,Syp.t-t,Symplocos tenuifolia-type
+3207,Syn.dep,Synthetic depth (cm)
+2340,Syr,Syringa
+1281,Syr.v,Syringa vulgaris
+2368,Syz,Syzygium
+2048,Tbe,Tabebuia
+2029,Tab,Tabernaemontana
+1309,Tamae,Tamaricaceae
+2344,Tam,Tamarix
+3345,Tpe,Tapeinosperma
+2074,Tap,Tapirira
+3077,Tap-t,Tapirira-type
+2307,Tar,Taraxacum
+2792,Tas,Tasmannia
+1661,,Taxodiaceae
+759,,Taxodiaceae/Cupressaceae/Taxaceae
+298,Txm,Taxodium
+3546,Txm.d,Taxodium distichum
+395,Txm-t,Taxodium-type
+299,Txs,Taxus
+1469,Txs.b,Taxus brevifolia
+1461,Txs.c,Taxus canadensis
+2426,Tcl,Teclea
+2049,Tco,Tecoma
+631,Tec.p,Tectatodinium pellitum
+1648,,Tepualia
+1647,Tep.s,Tepualia stipularis
+1859,Ter.cf.b,Ternstroemia cf. T. brasiliensis
+2644,Tert.t,Tertiary types
+1703,Tesae,Testaceae
+3272,Ttp,Tetrapterys
+2860,Ttr,Tetratheca
+2356,Tet,Tetrorchidium
+1814,Tet.r,Tetrorchidium rubrivenium
+3408,Teu,Teucrium
+1366,,Thalictrum angustifolium
+1329,Tha.a,Thalictrum aquilegifolium
+1454,Th.cf.da,Thalictrum cf. T. dasycarpum
+1462,Th.cf.di,Thalictrum cf. T. dioicum
+1456,Tha.c-t,Thalictrum confine-type
+2602,Tha.da-t,Thalictrum dasycarpum-type
+2601,Tha.di-t,Thalictrum dioicum-type
+1330,Tha.l,Thalictrum lucidum
+1328,Tha.ud,Thalictrum undiff.
+1455,Tha.v-t,Thalictrum venulosum-type
+3616,Tha/Cop,Thalictrum/Coptis
+1751,Tha-t,Thalictrum-type
+1840,Theea,Theaceae
+1490,Fu:Thc,Thecaphora
+3409,Thg,Theligonum
+2682,Thlae,Thelypteridaceae
+3429,Thl,Thelypteris
+3150,,Thelypteris oreopteris
+1370,Thl.p,Thelypteris palustris
+512,Thl.p-t,Thelypteris palustris-type
+3149,Thl.q,Thelypteris quelpaertensis
+853,Thu,Thuja
+1597,Thu.p-t,Thuja plicata-type
+1398,Thu-t,Thuja-type
+2345,Thyae,Thymelaeaceae
+3601,Thm/Mnt,Thymus/Mentha
+494,Tid,Tidestromia
+2649,Tid.l,Tidestromia lanuginosa
+493,Tid-t,Tidestromia-type
+2793,Tie,Tieghemopanax
+302,Til,Tilia
+758,Til.a,Tilia americana
+3472,Til.c,Tilia cordata
+3473,Til.p,Tilia platyphyllos
+1714,Tilae,Tiliaceae
+3078,T.cf.Ape,Tiliaceae cf. Apeiba
+2516,Tlc,Tiliacora
+2517,Tlc.f,Tiliacora funifera
+3631,,Tillaea
+301,Tld,Tillandsia
+1433,Fu:Tll,Tilletia
+1109,Fu:Tll.s,Tilletia sphagni
+3382,Tim,Timonius
+2427,Tod,Toddalia
+2428,Tod.a,Toddalia asiatica
+1434,Tof,Tofieldia
+1463,Tof.g,Tofieldia glutinosa
+2200,Tof.p,Tofieldia pusilla
+1752,Tou,Tournefortia
+731,Tox,Toxicodendron
+728,Tox.r,Toxicodendron radicans
+2156,Tox.r-t,Toxicodendron radicans-type
+2164,Tox.v,Toxicodendron vernix
+2689,Trm,Trachomitum
+2308,Tra,Trachyphyllum
+2690,Tpa,Trapa
+2691,Tpaae,Trapaceae
+3273,Ttt,Trattinnickia
+1093,tr&sh.ud,Trees and shrubs undiff.
+303,trees.ud,Trees undiff.
+304,Tre,Trema
+3547,Tre.m,Trema micrantha
+2439,Tre.o,Trema orientalis
+2861,Tmnae,Tremandraceae
+3079,Tre-t,Trema-type
+3167,Trb,Tribulus
+3117,Tch,Trichilia
+3080,Trc,Trichocline
+3526,Trh.d,Trichostema dichotomum
+2228,Trn,Trientalis
+1078,Trf,Trifolium
+495,Trf.p,Trifolium pratense
+3704,Trf.p-t,Trifolium pratense-type
+2913,Trf.r,Trifolium repens
+496,Trf.r-t,Trifolium repens-type
+762,Trf-t,Trifolium-type
+3459,Trf-t.ud,Trifolium-type undiff.
+968,Tri,Triglochin
+3724,Tri.ma,Triglochin maritimum
+811,Tr/Po.Po,Triglochin/Potamogeton subg. Potamogeton
+2794,Tr/Sp,Triglochin/Sparganium
+3081,Tgo,Trigonia
+3082,Tgoae,Trigoniaceae
+1197,Trg.a,Trigonopyxis arcula
+3383,Tgs,Trigonotis
+2396,Trl,Trilepisium
+2397,Trl.m,Trilepisium madagascariensis
+1651,fsp.spik,Trilete fern-spore spike (number counted)
+2593,Trd,Triodanis
+1645,Trx,Tristerix
+969,Trt,Triticum
+497,Trt-t,Triticum-type
+1815,Trs,Trixis
+1676,Troae,Tropaeolaceae
+1675,Tro,Tropaeolum
+2079,Trp,Trophis
+306,Tsu,Tsuga
+2309,Tsu.d,Tsuga diversifolia
+530,Tsu.h,Tsuga heterophylla
+529,Tsu.m,Tsuga mertensiana
+1275,Tsu.ud,Tsuga undiff.
+411,,Tubuliflorae
+3346,Tur,Turrillia
+2983,Type1,Type 1
+2991,Type10,Type 10
+2992,Type11,Type 11
+2993,Type12,Type 12
+2994,Type13,Type 13
+2995,Type14,Type 14
+2996,Type15,Type 15
+2997,Type16,Type 16
+2998,Type17,Type 17
+2984,Type2,Type 2
+1202,VGt354,Type 354 (Van Geel et al. 1981)
+2985,Type4,Type 4
+2986,Type5,Type 5
+2987,Type6,Type 6
+1200,VGt69,Type 69 (Van Geel 1978)
+2988,Type7,Type 7
+1201,VGt75,Type 75 (Van Geel 1978)
+2989,Type8,Type 8
+2990,Type9,Type 9
+751,Typ,Typha
+752,Typ.a,Typha angustifolia
+2572,Ty.a/Sp,Typha angustifolia/Sparganium
+1121,Typ.a-t,Typha angustifolia-type
+2346,Typ.cf.d,Typha cf. T. domingensis
+2530,Typ.cf.e,Typha cf. T. elephantina
+3083,Typ.d,Typha domingensis
+832,Typ.l.m,Typha latifolia (monads)
+1218,Typ.l.ud,Typha latifolia undiff.
+1268,Typ.l-t,Typha latifolia-type
+906,Typ.ud,Typha undiff.
+1217,Ty/Sp.ud,Typha/Sparganium undiff.
+2862,,Typhaceae
+2358,Uap,Uapaca
+2385,Uap.k,Uapaca kirkiana
+2357,Uap.ud,Uapaca undiff.
+2456,Ueb,Uebelinia
+2457,Ueb.a,Uebelinia abyssinica
+3410,Ule,Ulex
+3456,Ul/Cy.Sa,Ulex/Cytisus subg. Sarothamnus
+3411,Ule-t,Ulex-type
+3412,Ule-t.ud,Ulex-type undiff.
+1203,Ulmae,Ulmaceae
+2543,Ulmae.ud,Ulmaceae undiff.
+3548,Ulm.a,Ulmus alata
+1359,,Ulmus campestris
+1312,Ulm.g,Ulmus glabra
+1317,Ulm.l,Ulmus laevis
+1293,Ulm.m,Ulmus minor
+1292,,Ulmus scabra
+1386,Ulm.ud,Ulmus undiff.
+408,,Umbelliferae
+313,unk,Unknown
+1974,unk.C2rl,Unknown (dicolpate reticulate longiaxe)
+1516,unk.Fen,Unknown (fenestrate)
+3552,unk.lso,Unknown (large sphere/oval)
+1973,unk.C1,Unknown (monocolpate)
+3384,unk.pap,Unknown (papillate)
+3551,unk.P5,Unknown (pentaporate)
+3182,unk.Pper,Unknown (periporate)
+2088,unk.poly,Unknown (polyad)
+3385,unk.ret,Unknown (reticulate)
+3213,u.smc3p3,Unknown (small tricolporate)
+3553,unk.spov,Unknown (sphere or ovoid)
+3554,unk.spsp,Unknown (spiny sphere)
+3003,unk.c4,Unknown (tetracolpate)
+3550,unk.P4,Unknown (tetraporate)
+3226,unk.C3s,Unknown (tricolpate scabrate)
+2143,unk.C3,Unknown (tricolpate)
+3084,unk.C3.f,"Unknown (tricolpate, fine sculpturing)"
+1938,unk.C3ps,"Unknown (tricolpate, psilate-scabrate)"
+2145,u.C3P3.p,Unknown (tricolporate psilate)
+3227,C3P3pssm,"Unknown (tricolporate psilate, small)"
+3228,C3P3resm,"Unknown (tricolporate reticulate, small)"
+3229,C3P3resp,"Unknown (tricolporate reticulate, spheroidal)"
+1471,unk.C3P3,Unknown (tricolporate)
+3549,unk.P3,Unknown (triporate)
+3386,unk.92,Unknown 92
+3387,unk.93,Unknown 93
+3388,unk.94,Unknown 94
+3389,unk.95,Unknown 95
+1252,unk.A,Unknown A
+2173,unk/ot,Unknown and other
+1470,unk.B,Unknown B
+3390,u.cf.Apa,Unknown cf. Amperea
+3012,unk.I,Unknown I
+3013,unk.II,Unknown II
+3014,unk.III,Unknown III
+1756,unk.R,Unknown R
+3085,unk.t12,Unknown type 12
+3086,unk.t13,Unknown type 13
+3087,unk.t14,Unknown type 14
+3088,unk.t15,Unknown type 15
+3155,unk.t2,Unknown type 2
+1753,u2.C3,Unknown type 2 (tricolpate)
+3274,unk.t21,Unknown type 21
+3275,unk.t24,Unknown type 24
+3276,unk.t28,Unknown type 28
+3118,unk.t3,Unknown type 3
+3277,unk.t32,Unknown type 32
+1754,u35.C3P3,Unknown type 35 (tricolporate)
+3089,unk.t4,Unknown type 4
+1755,u40.C3P3,Unknown type 40 (tricolporate)
+3278,unk.t51,Unknown type 51
+3279,unk.t54,Unknown type 54
+1706,u58.P6,Unknown type 58 (6-porate)
+1705,u59.C6P6,Unknown type 59 (6-colporate)
+3280,unk.t68,Unknown type 68
+3281,unk.t71,Unknown type 71
+3282,unk.t8,Unknown type 8
+3283,unk.t89,Unknown type 89
+3119,unk.t9,Unknown type 9
+1389,unk.ud,Unknown undiff.
+1414,unk/ind,Unknown/Indeterminable
+2964,Un/In.ud,Unknown/Indeterminable undiff.
+498,Urt,Urtica
+3602,Urt.d-t,Urtica dioica-type
+2883,Urt.i,Urtica incisa
+315,Urtae.ud,Urticaceae undiff.
+2864,Ur/Mo,Urticaceae/Moraceae
+3028,Ur/Mo.p2,Urticaceae/Moraceae (diporate)
+3029,Ur/Mo.p3,Urticaceae/Moraceae (triporate)
+3138,Ur/Mo.ud,Urticaceae/Moraceae undiff.
+1903,Urtae-t,Urticaceae-type
+2545,Urtae.tu,Urticaceae-type undiff.
+1816,Urtes,Urticales
+3005,Urtes.ds,"Urticales (diporate, scabrate)"
+3006,Urtes.pp,Urticales (polyporate)
+3007,Urtes.p4,Urticales (tetraporate)
+3004,Urtes.ts,"Urticales (triporate, scabrate)"
+499,Urtes.ud,Urticales undiff.
+314,Urt-t,Urtica-type
+2315,Urt-t.ud,Urtica-type undiff.
+3120,Urv,Urvillea
+316,Utr,Utricularia
+317,Vac,Vaccinium
+764,Vac.a-t,Vaccinium angustifolium-type
+766,Vac.m-t,Vaccinium macrocarpon-type
+767,Vac.o,Vaccinium oxycoccos
+765,Vac.u-t,Vaccinium uliginosum-type
+1219,Vac.ud,Vaccinium undiff.
+1173,Vac-t,Vaccinium-type
+318,Val,Valeriana
+2310,Val.c,Valeriana capitata
+2311,Val.o,Valeriana officinalis
+1872,Val.s-t,Valeriana stenophylla-type
+2312,Val.ud,Valeriana undiff.
+2896,Val/Vlr,Valeriana/Valerianella
+1302,Valae,Valerianaceae
+527,Val-t,Valeriana-type
+2895,Vlr,Valerianella
+2971,Vlr-t,Valerianella-type
+2978,Vll,Vallea
+2509,Van,Vangueria
+2510,Van.a,Vangueria acutiloba
+3284,Vnt,Vantanea
+3713,Varia,Varia
+500,Ver,Verbena
+1138,Verae,Verbenaceae
+3090,Vrn,Vernonia
+1818,Vrn-t,Vernonia-type
+2795,Vro,Veronica
+3430,Vro-t,Veronica-type
+397,Vib,Viburnum
+944,Vib.m-t,Viburnum acerifolium-type
+769,,Viburnum cassinoides
+772,,Viburnum cassinoides-type
+2210,Vib.cf.o,Viburnum cf. V. opulus
+770,Vib.e,Viburnum edule
+396,Vib.l,Viburnum lentago
+945,Vib.l-t,Viburnum lentago-type
+793,Vib.n,Viburnum nudum
+796,Vib.n-t,Viburnum nudum-type
+794,Vib.o,Viburnum opulus
+795,Vib.o-t,Viburnum opulus-type
+398,Vib.r-t,Viburnum rafinesquianum-type
+771,,Viburnum trilobum
+399,,Viburnum trilobum-type
+319,Vib.ud,Viburnum undiff.
+3603,Vib-t,Viburnum-type
+2938,Vic,Vicia
+1876,Vi/La,Vicia/Lathyrus
+808,Vic-t,Vicia-type
+2504,Vig,Vigna
+2505,Vig.l,Vigna luteola
+332,Vio,Viola
+2313,Vioae,Violaceae
+2314,Vioae.ud,Violaceae undiff.
+2487,Vrc,Virectaria
+1757,Vir,Virola
+1860,Vir.o,Virola oleifera
+165,Visae,Viscaceae
+1210,Visae.ud,Viscaceae undiff.
+2546,Vi/Lo,Viscaceae/Loranthaceae
+1334,Vis,Viscum
+2050,Vsm,Vismia
+1108,Vitae,Vitaceae
+320,Vit,Vitis
+2599,Vit.cf.a,Vitis cf. V. aestivalis
+3158,Vit.r,Vitis riparia
+1364,,Vitis sylvestris
+1321,Vit.v,Vitis vinifera
+2051,Voc,Vochysia
+2039,Vocae,Vochysiaceae
+2796,Wah,Wahlenbergia
+1629,Wei,Weinmannia
+1034,Wei.t,Weinmannia trichosperma
+3285,Wei-t,Weinmannia-type
+1126,pres.1,Well-preserved
+1659,Wen,Wendtia
+2168,Wen-t,Wendtia-type
+1775,Winae,Winteraceae
+321,Woo,Woodsia
+2584,Woo.cf.i,Woodsia cf. W. ilvensis
+2323,Woo.i,Woodsia ilvensis
+2583,Woo.o,Woodsia obtusa
+774,Woo-t,Woodsia-type
+322,Xan,Xanthium
+797,Xan-t,Xanthium-type
+2732,Xthae,Xanthorrhoeaceae
+2556,Xim,Ximenia
+2052,Xyl,Xylosma
+1354,Xyr,Xyris
+1503,Yuc,Yucca
+2434,Znh,Zanha
+2435,Znh.g,Zanha golungensis
+809,Zan,Zanthoxylum
+1819,Zan.I,Zanthoxylum (type I)
+1820,Zan.II,Zanthoxylum (type II)
+1457,Zan.a,Zanthoxylum americanum
+2429,Zan.c,Zanthoxylum chalybeum
+2430,Zan.u,Zanthoxylum usambarense
+400,Zan-t,Zanthoxylum-type
+538,Zea,Zea
+323,Zea.m,Zea mays
+2080,,Zea mexicana
+2692,Zel,Zelkova
+501,Zig,Zigadenus
+1821,Zor.cf.l,Zornia cf. Z. latifolia
+2569,Zos.d,Zosterella dubia
+3091,Zyg,Zygnema
+1704,Zygae,Zygnemataceae
+1761,Zygae.ud,Zygnemataceae undiff.
+2135,Zgoae,Zygophyllaceae
+2979,Zygospor,Zygospores
